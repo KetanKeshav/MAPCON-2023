@@ -15,12 +15,12 @@
                 <li class="nav-item <?php if ($page == "index") echo "active" ?>">
                     <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                 </li>
-                <li class="nav-item dropdown <?php if ($page == "tpc") echo "active" ?> ">
+                <li class="nav-item dropdown <?php if ($page == "tpc" || $page == "oc" || $page == "sc") echo "active" ?> ">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Committee
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="./organizing-committee/index.php">Organizing Committee</a>
+                        <a class="dropdown-item <?php if ($page == "oc") echo "active" ?>" href="organizing-committee.php">Organizing Committee</a>
                         <a class="dropdown-item <?php if ($page == "tpc") echo "active" ?>" href="tpc.php">Technical Program
                             Committee</a>
                         <a class="dropdown-item <?php if ($page == "sc") echo "active" ?>" href="./session-chairs.php">Session Chairs</a>
