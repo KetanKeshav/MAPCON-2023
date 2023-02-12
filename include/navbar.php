@@ -78,6 +78,9 @@
                         <a class="dropdown-item" href="./job-opportunities/index.php">Job Opportunities</a>
                     </div>
                 </li>
+                <li class="nav-item <?php if ($page == "ptv") echo "active" ?>">
+                    <a class="nav-link" href="places.php">Places to Visit</a>
+                </li>
                 <li class="nav-item <?php if ($page == "speakers") echo "active" ?>">
                     <a class="nav-link" href="speakers.php">Speakers</a>
                 </li>
