@@ -72,10 +72,10 @@
                         <a class="dropdown-item <?php if ($page == "phd-student-initiative") echo "active" ?>" href="phd-student-initiative.php">PhD Student Initiative
                             Program</a>
                         <a class="dropdown-item <?php if ($page == "student-paper-award") echo "active" ?>" href="student-paper-award.php">Student Paper Award</a>
-                        <a class="dropdown-item" <?php if ($page == "b.tech_m.tech-student-connect") echo "active" ?> href="b.tech_m.tech-student-connect.php">B.Tech / M.Tech Student
+                        <a class="dropdown-item <?php if ($page == "b.tech_m.tech-student-connect") echo "active" ?>"  href="b.tech_m.tech-student-connect.php">B.Tech / M.Tech Student
                             Connect Initiative Program</a>
-                        <a class="dropdown-item" <?php if ($page == "student-opportunities") echo "active" ?> href="student-opportunities.php">Opportunities for Students</a>
-                        <a class="dropdown-item" <?php if ($page == "job-opportunities") echo "active" ?> href="job-opportunities.php">Job Opportunities</a>
+                        <a class="dropdown-item  <?php if ($page == "student-opportunities") echo "active" ?>" href="student-opportunities.php">Opportunities for Students</a>
+                        <a class="dropdown-item <?php if ($page == "job-opportunities") echo "active" ?>"  href="job-opportunities.php">Job Opportunities</a>
                     </div>
                 </li>
                 <li class="nav-item <?php if ($page == "ptv") echo "active" ?>">
