@@ -64,14 +64,14 @@
                         </a>
                     </div>
                 </li>
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown <?php if ($page == "phd-student-initiative" or $page == "student-paper-award") echo "active" ?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Student Program
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="phd-student-initiative.php">PhD Student Initiative
+                        <a class="dropdown-item <?php if ($page == "phd-student-initiative") echo "active" ?>" href="phd-student-initiative.php">PhD Student Initiative
                             Program</a>
-                        <a class="dropdown-item" href="./student-paper-award/index.php">Student Paper Award</a>
+                        <a class="dropdown-item <?php if ($page == "student-paper-award") echo "active" ?>" href="student-paper-award.php">Student Paper Award</a>
                         <a class="dropdown-item" href="./b.tech_m.tech-student-connect/index.php">B.Tech / M.Tech Student
                             Connect Initiative Program</a>
                         <a class="dropdown-item" href="./student-opportunities/index.php">Opportunities for Students</a>
