@@ -59,7 +59,7 @@
                         <a class="dropdown-item" href="./paper-submission/index.php">Paper Submission</a>
                         <a class="dropdown-item" href="important-dates.php">Important Dates</a>
                         <a class="dropdown-item <?php if ($page == "awards") echo "active" ?>" href="awards.php">Awards</a>
-                        <a class="dropdown-item" href="./downloads/MAPCON-CFP.pdf" target="_blank" download="MAPCON-brochure">
+                        <a class="dropdown-item" href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="MAPCON-brochure">
                             Download CFP
                         </a>
                     </div>
