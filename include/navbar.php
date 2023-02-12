@@ -69,7 +69,7 @@
                         Student Program
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="./phd-student-initiative/index.php">PhD Student Initiative
+                        <a class="dropdown-item" href="phd-student-initiative.php">PhD Student Initiative
                             Program</a>
                         <a class="dropdown-item" href="./student-paper-award/index.php">Student Paper Award</a>
                         <a class="dropdown-item" href="./b.tech_m.tech-student-connect/index.php">B.Tech / M.Tech Student

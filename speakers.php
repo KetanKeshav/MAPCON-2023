@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<?php $page = "tpc"; ?>
+<?php $page = "speakers"; ?>
 
 <head>
     <!-- Site Metas -->
