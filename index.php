@@ -27,14 +27,6 @@
         <!-- slider section -->
         <section class="slider_section ">
             <div id="customCarousel1" class="carousel slide" data-ride="carousel">
-                <!-- <ol class="carousel-indicators">
-          <li data-target="#customCarousel1" data-slide-to="0" class="active">1</li>
-          <li data-target="#customCarousel1" data-slide-to="1">2</li>
-          <li data-target="#customCarousel1" data-slide-to="2">3</li>
-          <li data-target="#customCarousel1" data-slide-to="3">4</li>
-          <li data-target="#customCarousel1" data-slide-to="4">5</li>
-
-        </ol> -->
                 <div class="carousel-inner">
                     <div class="carousel-item active slide-1">
                         <div class="container">
