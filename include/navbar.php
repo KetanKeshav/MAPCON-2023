@@ -64,7 +64,7 @@
                         </a>
                     </div>
                 </li>
-                <li class="nav-item dropdown <?php if ($page == "phd-student-initiative" or $page == "student-paper-award") echo "active" ?>">
+                <li class="nav-item dropdown <?php if ($page == "phd-student-initiative" ||  $page == "student-paper-award" || $page == "b.tech_m.tech-student-connect" || $page == "student-opportunities" || $page == "job-opportunities" ) echo "active" ?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Student Program
                     </a>
@@ -72,10 +72,10 @@
                         <a class="dropdown-item <?php if ($page == "phd-student-initiative") echo "active" ?>" href="phd-student-initiative.php">PhD Student Initiative
                             Program</a>
                         <a class="dropdown-item <?php if ($page == "student-paper-award") echo "active" ?>" href="student-paper-award.php">Student Paper Award</a>
-                        <a class="dropdown-item" href="./b.tech_m.tech-student-connect/index.php">B.Tech / M.Tech Student
+                        <a class="dropdown-item" <?php if ($page == "b.tech_m.tech-student-connect") echo "active" ?> href="b.tech_m.tech-student-connect.php">B.Tech / M.Tech Student
                             Connect Initiative Program</a>
-                        <a class="dropdown-item" href="./student-opportunities/index.php">Opportunities for Students</a>
-                        <a class="dropdown-item" href="./job-opportunities/index.php">Job Opportunities</a>
+                        <a class="dropdown-item" <?php if ($page == "student-opportunities") echo "active" ?> href="student-opportunities.php">Opportunities for Students</a>
+                        <a class="dropdown-item" <?php if ($page == "job-opportunities") echo "active" ?> href="job-opportunities.php">Job Opportunities</a>
                     </div>
                 </li>
                 <li class="nav-item <?php if ($page == "ptv") echo "active" ?>">
