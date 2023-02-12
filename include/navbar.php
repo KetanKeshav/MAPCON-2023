@@ -26,7 +26,7 @@
                         <a class="dropdown-item <?php if ($page == "sc") echo "active" ?>" href="./session-chairs.php">Session Chairs</a>
                     </div>
                 </li>
-                <li class="nav-item dropdown <?php if ($page == "w1" || $page == "w2" || $page == "tutorial" || $page == "6g" || $page == "aa" || $page == "tt" || $page == "kn" || $page == "gan" || $page == "program" || $page == "yp" || $page == "ap") echo "active" ?>">
+                <li class="nav-item dropdown <?php if ($page == "w1" || $page == "w2" || $page == "tutorial" || $page == "6g" || $page == "aa" || $page == "tt" || $page == "kn" || $page == "gan" || $page == "program" || $page == "yp" || $page == "wie" || $page == "ap") echo "active" ?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Program
                     </a>
@@ -39,11 +39,11 @@
                         <!-- <a class="dropdown-item <?php if ($page == "6g") echo "active" ?>" href="./program/6g.php">Special Sessions on 6G</a> -->
                         <!-- <a class="dropdown-item <?php if ($page == "aa") echo "active" ?>" href="./program/antenna.php">Antenna Arrays</a> -->
                         <!-- <a class="dropdown-item <?php if ($page == "gan") echo "active" ?>" href="./program/gan.php">GaN ASIC</a> -->
-                        <a class="dropdown-item <?php if ($page == "kn") echo "active" ?>" href="./program/keynotes.php">Keynotes</a>
-                        <!-- <a class="dropdown-item <?php if ($page == "tt") echo "active" ?>" href="./program/tedtalk.php">Banquet TED Talk</a> -->
-                        <a class="dropdown-item <?php if ($page == "yp") echo "active" ?>" href="./program/yp.php">YP Activities</a>
-                        <a class="dropdown-item <?php if ($page == "wie") echo "active" ?>" href="./program/wie.php">WIE Activities</a>
-                        <a class="dropdown-item <?php if ($page == "ap") echo "active" ?>" href="./program/ap.php">AP-S & MTT-S SIGHT</a>
+                        <a class="dropdown-item <?php if ($page == "kn") echo "active" ?>" href="keynotes.php">Keynotes</a>
+                        <!-- <a class="dropdown-item <?php if ($page == "tt") echo "active" ?>" href="tedtalk.php">Banquet TED Talk</a> -->
+                        <a class="dropdown-item <?php if ($page == "yp") echo "active" ?>" href="yp-activities.php">YP Activities</a>
+                        <a class="dropdown-item <?php if ($page == "wie") echo "active" ?>" href="wie-activities.php">WIE Activities</a>
+                        <a class="dropdown-item <?php if ($page == "ap") echo "active" ?>" href="ap-mtt.php">AP-S & MTT-S SIGHT</a>
                         <!-- <a class="dropdown-item" href="downloads/MAPCON Presentation.pptx" target="_blank">Presentation
                             Template</a> -->
                         <!-- <a class="dropdown-item" href="downloads/MAPCON_digital_poster.pptx" target="_blank">Poster Template (A0 size only)</a> -->
