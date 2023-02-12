@@ -49,15 +49,15 @@
                         <!-- <a class="dropdown-item" href="downloads/MAPCON_digital_poster.pptx" target="_blank">Poster Template (A0 size only)</a> -->
                     </div>
                 </li>
-                <li class="nav-item dropdown <?php if ($page == "awards") echo "active" ?>">
+                <li class="nav-item dropdown <?php if ($page == "awards" || $page == "cfa" || $page == "paper-submission" || $page == "important-dates") echo "active" ?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Authors
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <!-- <a class="dropdown-item <?php if ($page == "ra") echo "active" ?>" href="./registered-authors.php">Registered Authors</a> -->
-                        <a class="dropdown-item" href="call-for-papers.php">Call For Papers</a>
-                        <a class="dropdown-item" href="./paper-submission/index.php">Paper Submission</a>
-                        <a class="dropdown-item" href="important-dates.php">Important Dates</a>
+                        <a class="dropdown-item <?php if ($page == "cfa") echo "active" ?>" href="call-for-papers.php">Call For Papers</a>
+                        <a class="dropdown-item <?php if ($page == "paper-submission") echo "active" ?>" href="paper-submission.php">Paper Submission</a>
+                        <a class="dropdown-item <?php if ($page == "important-dates") echo "active" ?>" href="important-dates.php">Important Dates</a>
                         <a class="dropdown-item <?php if ($page == "awards") echo "active" ?>" href="awards.php">Awards</a>
                         <a class="dropdown-item" href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="MAPCON-brochure">
                             Download CFP
