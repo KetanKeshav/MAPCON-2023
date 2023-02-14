@@ -3,70 +3,215 @@
 <?php $page = 'oc'; ?>
 
 <head>
-    <!-- Site Metas -->
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
 
-    <title>Organizing Committeee | MAPCON 2023</title>
+  <title>Organizing Committeee | MAPCON 2023</title>
 
-    <?php include 'include/head.php' ?>
+  <?php include 'include/head.php' ?>
 
-    <style>
-        .card {
-            margin-top: 20px;
-            border: none;
-            background-color: transparent;
-        }
+  <style>
+    .card {
+      margin-top: 20px;
+      border: none;
+      background-color: transparent;
+    }
 
-        .card-title {
-            font-size: 20px;
-            font-weight: bold;
-        }
+    .card-title {
+      font-size: 20px;
+      font-weight: bold;
+    }
 
-        .card-text {
-            text-align: left;
-            color: #473F3F;
-            font-family: 'Red Hat Text', Sans-serif;
-            font-size: 18px;
-        }
+    .card-text {
+      text-align: left;
+      color: #473F3F;
+      font-family: 'Red Hat Text', Sans-serif;
+      font-size: 18px;
+    }
 
-        .card-img-top {
-            width: 300px;
-            height: 325px;
-        }
+    .card-img-top {
+      width: 300px;
+      height: 325px;
+    }
 
-        .span_head {
-            font-weight: bold;
-            color: #EF4D48;
-        }
-    </style>
+    .span_head {
+      font-weight: bold;
+      color: #EF4D48;
+    }
+  </style>
 
 </head>
 
 <body class="sub_page">
-    <div class="hero_area">
-        <!-- header section strats -->
-        <header class="header_section">
-            <div class="container-fluid">
-                <?php include 'include/navbar.php'; ?>
-            </div>
-        </header>
-    </div>
-    <!-- end header section -->
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <?php include 'include/navbar.php'; ?>
+      </div>
+    </header>
+  </div>
+  <!-- end header section -->
 
-    <section class="course_section layout_padding content-bg">
-        <div class="container">
-            <div class="heading_container heading_center">
-                <h2>
-                    Organizing <span>Committee</span>
-                </h2>
-            </div>
-            <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
-            <div class="col-md-12">
-                <img src="images/uc.png" class="img-fluid" alt="Under Construction" width="100%">
-            </div>
-            <!-- 
+  <section class="course_section layout_padding content-bg">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          Organizing <span>Committee</span>
+        </h2>
+      </div>
+      <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
+      <div style="font-size: 18px;" class="col-md-12">
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Chief Patrons:</h2>
+        <ul>
+          <li>Shri. A. S. Kiran Kumar, Ex, Chairman, ISRO, Member Space Commission</li>
+          <li>Shri. S. Somanath, Chairman, ISRO</li>
+          <li>Dr. Pawan Kumar Goenka, Chairman, InSPACE </li>
+
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Patrons:</h2>
+        <ul>
+          <li>Shri. Nilesh M. Desai, Director, SAC</li>
+          <li>MEITY/Gujarat Innovation Council/ DRDO director</li>
+
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">General Co-Chairs:</h2>
+        <ul>
+          <li>Shri. Rajeev Jyoti, InSPACe</li>
+          <li>M. Jaleel Akhtar, IIT, Kanpur</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">TPC Co-Chairs:</h2>
+        <ul>
+          <li>Milind B. Mahajan, SAC/ISRO </li>
+          <li>Nagendra Prasad Pathak, IIT, Roorkee</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Finance Chair:</h2>
+        <ul>
+          <li>Prateek Bansal, SAC/ISRO</li>
+          <li>Jaswant Sharma, SAC/ISRO</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Tutorials and Faculty Development Program:</h2>
+        <ul>
+          <li>S. B. Chakrabarty, IIT, Gandhinagar</li>
+          <li>Manoj Meshram, IIT, Varanasi</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Special Sessions:</h2>
+        <ul>
+          <li>Dhaval Pujara, PDEU, Gandhinagar</li>
+          <li>P. K. Jain, InSPACe </li>
+          <li>Amit Kumar Singh, IIT, Jammu</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Workshop:</h2>
+        <ul>
+          <li>Sanjeev Kulshrestha, SAC/ISRO</li>
+          <li>Sandeep Chaturvedi, GAETEC </li>
+          <li>Yogesh Verma, DRDO</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Industry Engagement:</h2>
+        <ul>
+          <li>Ashish Rajvanshi, Adani Space & Defense </li>
+          <li>Suneel, Azista Pvt Ltd</li>
+          <li>Mayank Gajjar, Pacemaker Solutions</li>
+          <li>Accord Representative </li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">SIGHT:</h2>
+        <ul>
+          <li>Puneet Mishra, URSC/ISRO</li>
+          <li>Chinmoy Saha, IIST</li>
+          <li>Sravan Kumar, SAC/ISRO</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Exhibition and Sponsors:</h2>
+        <ul>
+          <li>Devendra Kumar Sharma, SAC/ISRO</li>
+          <li>Nihkil, InSPACE</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Startup Initiative and Government Outreach:</h2>
+        <ul>
+          <li>Tushar Sharma</li>
+          <li>Vinod Kumar, InSPACE</li>
+          <li>Yogesh Karandikar, Tantrayut </li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Women In Engineering:</h2>
+        <ul>
+          <li>Dr. Jolly Dhar, SAC/ISRO</li>
+          <li>Dr. Mridula Gupta, University of Delhi South Campus </li>
+          <li>Sruti Sinha, SAC/ISRO</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Young Professionals:</h2>
+        <ul>
+          <li>Somak Bhattacharya, IIT, Varanasi</li>
+          <li>Malika Somanath, IISc, Bangalore</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Ph.D. Initiative:</h2>
+        <ul>
+          <li>C.V.N. Rao SAC/ISRO</li>
+          <li>Ganga Prasad Pandey, PDEU, Gandhinagar</li>
+          <li>Ashwini Sawant, IIT, Guwahati</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Student Paper Contest:</h2>
+        <ul>
+          <li>Vijay Kumar Singh, SAC/ISRO</li>
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Mentor-Mentee Initiative:</h2>
+        <ul>
+          <li>Y. P. Kosta, Charusat University,Changa</li>
+          <li>Ved Vyas Dwivedi, Indus University, Ahmedabad</li>
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Website & IT:</h2>
+        <ul>
+          <li>Rakesh Kumar </li>
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Publicity & Media :</h2>
+        <ul>
+          <li>Yogesh Verma, DRDO</li>
+          <li>Hina Yadav, Delhi University</li>
+          <li>Chandreyee Sarkar, BIT, Mesra</li>
+
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Advisory Committee :</h2>
+        <ul>
+          <li>A.N. Bhattacharya, SAC/ISRO</li>
+          <li>Surinder Singh, Ex Director, SCL, Chandigarh</li>
+          <li>D.K.Singh SAC/ISRO</li>
+          <li>Sumitesh Sarkar , SAC/ISRO</li>
+          <li>Sungtek K.</li>
+          <li>Subba Rao, Anant Technology</li>
+          <li>M.V. Reddy, Astra Microwave Products</li>
+          <li>Vinod Chetapatty, Centum</li>
+
+
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Local Organizing Committee :</h2>
+        <ul>
+          <li>Vineet , IIT-Roorkee</li>
+          <li>Shashank Saxena</li>
+          <li>Dharmendra Singh</li>
+          <li>Vrishank Shah, Indus Univ.</li>
+          <li>Anamiya Bhattacharya</li>
+        </ul>
+
+      </div>
+
+      <!-- 
               <div class="heading_container span_body">
 
           <h2><span>Chief Patrons:</span></h2>
@@ -1237,17 +1382,19 @@
              
 
         </div>
-    </section>
-    
-    -->
+      -->
+  </section>
+  <div class="col-md-12">
+    <img src="images/uc.png" class="img-fluid" alt="Under Construction" width="100%">
+  </div>
 
-    <!-- sponsors section -->
+  <!-- sponsors section -->
 
-    <?php include 'sponsors.php'; ?>
+  <?php include 'sponsors.php'; ?>
 
-    <!-- end sponsprs section -->
+  <!-- end sponsprs section -->
 
-    <?php include 'include/footer.php'; ?>
+  <?php include 'include/footer.php'; ?>
 
 
 </body>

@@ -39,6 +39,8 @@
             <!-- 
     
             -->
+        </div>
+    </section>
 
     <!-- sponsors section -->
 
