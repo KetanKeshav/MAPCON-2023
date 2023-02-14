@@ -29,7 +29,7 @@
         <div class="container">
             <div class="heading_container heading_center">
                 <h2>
-                    Job Opportunities - <span>MAPCON 2022</span>
+                    Job Opportunities - <span>MAPCON 2023</span>
                 </h2>
             </div>
             <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
@@ -40,7 +40,7 @@
                 <p style="text-align: justify;">
                     Dear Professor,
                     <br><br>
-                    Greetings from the IEEE MAPCON 2022 Team! We have created a portal to gather the possible research
+                    Greetings from the IEEE MAPCON 2023 Team! We have created a portal to gather the possible research
                     and job opportunities (both short term and long term) in RF, Microwave and Antennas domain in India.
                     <br><br>
                     The purpose of this initiative is to promote research and jobs in RF and Microwave field, by
@@ -48,7 +48,7 @@
                     Professionals working in this research domain.
                     <br><br>
                     Please take this opportunity to advertise the openings in your group starting January 2023, by
-                    filling up the following Google form by November 30, 2022: <a href="https://docs.google.com/forms/d/1jbUCUGom-mJwZ94dwxsDOpvWNjBYBN9TOE-7olFUp2Q
+                    filling up the following Google form by November 30, 2023: <a href="https://docs.google.com/forms/d/1jbUCUGom-mJwZ94dwxsDOpvWNjBYBN9TOE-7olFUp2Q
             ">Fill the Form </a>
                     <br><br>
                     We are planning to compile the information and share it with students and YPs during the conference.
@@ -58,9 +58,9 @@
                     Thanks and Best Regards,
                     <br><br>
                     <b>
-                        Debdeep Sarkar (Co-Chair, YP Committee, IEEE MAPCON 2022)<br>
-                        Somak Bhattacharyya (Co-Chair, YP Committee, IEEE MAPCON 2022)<br>
-                        Puneet Kumar Mishra (General Chair, IEEE MAPCON 2022)<br>
+                        Debdeep Sarkar (Co-Chair, YP Committee, IEEE MAPCON 2023)<br>
+                        Somak Bhattacharyya (Co-Chair, YP Committee, IEEE MAPCON 2023)<br>
+                        Puneet Kumar Mishra (General Chair, IEEE MAPCON 2023)<br>
                         Web: https://www.ieeemapcon.org/
                     </b>
 

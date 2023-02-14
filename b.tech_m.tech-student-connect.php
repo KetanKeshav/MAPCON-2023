@@ -29,7 +29,7 @@
         <div class="container">
             <div class="heading_container heading_center">
                 <h2>
-                    B.Tech/M.Tech Student Connect Initiative Program - <span>MAPCON 2022</span>
+                    B.Tech/M.Tech Student Connect Initiative Program - <span>MAPCON 2023</span>
                     <br>
                     <h3>(Funded by IEEE AP-S YP Committee)</h3>
                 </h2>
@@ -93,7 +93,7 @@
                                 <br>(e) One product from the exhibition. Maximum length of the report should be of 10 slides.
                             </li>
                             <li>
-                                Last Date to apply: September 30, 2022
+                                Last Date to apply: September 30, 2023
                             </li>
                         </ul>
                     </li>

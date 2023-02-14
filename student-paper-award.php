@@ -29,7 +29,7 @@
         <div class="container">
             <div class="heading_container heading_center">
                 <h2>
-                    <span>Best Student Paper</span> Award - IEEE MAPCON 2022
+                    <span>Best Student Paper</span> Award - IEEE MAPCON 2023
                 </h2>
             </div>
             <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
@@ -44,7 +44,7 @@
             To be eligible for Student Paper Awards:
           <ul>
             <li>
-              First Author should be regular graduate/under graduate student as on December 16, 2022
+              First Author should be regular graduate/under graduate student as on December 16, 2023
             </li>
             <li>
               Paper Presentation should be made by Student Author
@@ -53,7 +53,7 @@
               A Valid Student ID Should be produced for verification
             </li>
             <li>
-              Decision made by MAPCON 2022 organizing committee will be final
+              Decision made by MAPCON 2023 organizing committee will be final
             </li>
           </ul>
 

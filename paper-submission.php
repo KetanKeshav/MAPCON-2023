@@ -38,12 +38,12 @@
             </div>
             <!-- 
                 <p>
-          Below are some useful instructions to assist the authors to submit their papers for MAPCON 2022:
+          Below are some useful instructions to assist the authors to submit their papers for MAPCON 2023:
         </p>
         <div class="spon_body">
           <h2><span>ORIGINALITY</span> OF SUBMITTED PAPERS</h2>
           <p>
-            Papers submitted to MAPCON 2022 shall contain original work by the author(s) that have not been
+            Papers submitted to MAPCON 2023 shall contain original work by the author(s) that have not been
             published or submitted for publication elsewhere. The IEEE anti- plagiarism policy is applicable
             to all submissions. The author(s) are solely responsible for any plagiarized submission.
           </p>

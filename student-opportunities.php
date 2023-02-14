@@ -29,7 +29,7 @@
         <div class="container">
             <div class="heading_container heading_center">
                 <h2>
-                    Opportunities for Students - <span>MAPCON 2022</span>
+                    Opportunities for Students - <span>MAPCON 2023</span>
                 </h2>
             </div>
             <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
@@ -44,8 +44,8 @@
           for students and young professionals beginning from January, 2023. The purpose of this initiative is to
           promote research and job opportunities in RF and Microwave field. Please take this opportunity to advertise
           the incoming openings in your group. The information will be compiled and shared with the registerd students
-          and young professionals delegates during MAPCON 2022.
-          Please submit the upcoming openings in your group in the following link by November 30, 2022 -
+          and young professionals delegates during MAPCON 2023.
+          Please submit the upcoming openings in your group in the following link by November 30, 2023 -
           Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSehsahqwMf3pAboMXn2E_eH8b3zxUMYjnUtt0GggTgPvSlTeA/viewform?vc=0&c=0&w=1&flr=0" target="_blank">Here</a>
           <br><br>
           Please direct your queries to the organizers at mapcon.yp@gmail.com

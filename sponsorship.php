@@ -34,12 +34,12 @@
           IEEE MTT-S and IEEE AP-S have come together and signed a MoU for combining two flagship conferences
           of the respective societies in India (IMaRC and InCAP) to a single conference: Microwave, Antennas,
           and Propagation Conference (MAPCON). The first edition of MAPCON is planned to be organized in
-          Bangalore, India during Dec 12-15, 2022.
+          Bangalore, India during Dec 12-15, 2023.
         </p>
         <p style="text-align: left;">
           The key focus of this conference will be on expert talks by internationally renowned professionals,
           workshops/tutorials by eminent speakers, oral/poster paper presentations by researchers and exhibition
-          by global industries. MAPCON 2022 is a right opportunity to showcase state of the art technologies,
+          by global industries. MAPCON 2023 is a right opportunity to showcase state of the art technologies,
           measurement facilities and modelling tools available in Antenna/Microwave & RF industries.
         </p>
         <p style="text-align: left;">
@@ -51,7 +51,7 @@
           key decision makers.
         </p>
         <p style="text-align: left;">
-          On behalf of the executive committee of MAPCON 2022, it is my great pleasure to invite you to be a
+          On behalf of the executive committee of MAPCON 2023, it is my great pleasure to invite you to be a
           valued sponsor at the event. MAPCON offers multiple levels of sponsorship and exhibitor opportunities
           to promote your organization to this influential audience.
         </p>
@@ -59,14 +59,14 @@
           We would like you to sponsor this event as a Diamond/Platinum/Gold/Silver/Bronze sponsor. The details
           for the same are contained in the attached document.
           <br><br>
-          Looking forward to see you in the MAPCON 2022, at Bangalore.
+          Looking forward to see you in the MAPCON 2023, at Bangalore.
 
           <br><br>
 
           <strong>
             Puneet Kumar Mishra<br>
             Mrinal Kanti Mandal<br>
-            General Chairs, MAPCON 2022<br>
+            General Chairs, MAPCON 2023<br>
             ieeemapcon@gmail.com
           </strong>
 

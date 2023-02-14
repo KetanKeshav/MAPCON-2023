@@ -40,10 +40,10 @@
                 <div class="cfa_heading">
         <h1>Dear <span>Researcher</span>,</h1>
         <p style="text-align: justify;">
-          On behalf of IEEE MAPCON 2022 Organizing Committeee, I take this opportunity to invite you to participate in
+          On behalf of IEEE MAPCON 2023 Organizing Committeee, I take this opportunity to invite you to participate in
           this professionally enriching flagship technical conference namely IEEE MAPCON. IEEE MAPCON is joint
           initiative of IEEE Antenna and Propagation Society (APS) and IEEE Microwave Theory & Techniques Society
-          (MTT-S). 1st edition of IEEE MAPCON will be organized on December 12-15,2022. MAPCON 2022 will have
+          (MTT-S). 1st edition of IEEE MAPCON will be organized on December 12-15,2023. MAPCON 2023 will have
           technical tracks covering all the domains of Microwaves, Antennas and Propagation.
           The eminent International speakers from US, Europe and premier National research and Industrial Organizations
           will deliver talks and conduct workshops and tutorials. During this international conference, the prospective
@@ -53,14 +53,14 @@
           <br><br>
           <a href=" https://edas.info/N29753"> https://edas.info/N29753</a>
           <br><br>
-          I assure you of an international technically enriched and vibrant experience at MAPCON 2022, and I
+          I assure you of an international technically enriched and vibrant experience at MAPCON 2023, and I
           am sure your experience at this conference will be a rewarding and memorable one.
 
           <br><br><br>
 
           <strong>
             Puneet Kumar Mishra and Mrinal Kanti Mandal,<br>
-            General Chairs, IEEE MAPCON 2022
+            General Chairs, IEEE MAPCON 2023
           </strong>
         </p>
       </div>

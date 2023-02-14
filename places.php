@@ -75,7 +75,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 mt-5">
                             <div class="venue-info-content">
-                                <img width="100%" src="https://sabarmatiriverfront.com/wp-content/uploads/2022/08/riverfront-foot-over-bridge-1.jpg" alt="Sabarmati Riverfront">
+                                <img width="100%" src="https://sabarmatiriverfront.com/wp-content/uploads/2023/08/riverfront-foot-over-bridge-1.jpg" alt="Sabarmati Riverfront">
                             </div>
                         </div>
                     </div>
@@ -90,7 +90,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 mt-5">
                             <div class="venue-info-content">
-                                <img width="100%" src="https://imvoyager.com/wp-content/uploads/2022/01/Gujarat-Science-City-Ahmedabad-SM.jpg" alt="Science City">
+                                <img width="100%" src="https://imvoyager.com/wp-content/uploads/2023/01/Gujarat-Science-City-Ahmedabad-SM.jpg" alt="Science City">
                             </div>
                         </div>
                     </div>

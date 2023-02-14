@@ -106,7 +106,7 @@
                         </center>
                         <div class="card-body">
                             <h4 class="card-title">Prof. Saifur Rahman</h4>
-                            <p class="card-text">2022 President-Elect IEEE</p>
+                            <p class="card-text">2023 President-Elect IEEE</p>
                         </div>
                     </div>
                     <div class="card col-lg-4 col-md-4 col-sm-6">

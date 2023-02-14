@@ -29,7 +29,7 @@
         <div class="container">
             <div class="heading_container heading_center">
                 <h2>
-                    PhD Student Initiative Program - <span>MAPCON 2022</span>
+                    PhD Student Initiative Program - <span>MAPCON 2023</span>
                 </h2>
             </div>
             <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
@@ -86,7 +86,7 @@
                 <br>(d) one product from the exhibition. Maximum length of the report should be of 10 slides.
               </li>
               <li>
-                Last Date to apply: September 15, 2022
+                Last Date to apply: September 15, 2023
               </li>
             </ul>
           </li>

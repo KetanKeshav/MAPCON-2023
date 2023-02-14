@@ -40,11 +40,11 @@
                         <tbody>
                             <tr>
                                 <td>20% Discount</td>
-                                <td>May 31, 2022</td>
+                                <td>May 31, 2023</td>
                             </tr>
                             <tr>
                                 <td>10% Discount</td>
-                                <td>June 15, 2022</td>
+                                <td>June 15, 2023</td>
                             </tr>
                         </tbody>
                     </table>
