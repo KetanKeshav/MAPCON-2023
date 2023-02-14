@@ -54,11 +54,11 @@
                 <div class="col-md-3">
                     <h3 class="f-header">Quick Links</h3>
                     <ul>
-                        <li class="f-links"><a href="#">Home</a></li>
-                        <li class="f-links"><a href="#">Organizing Committee</a></li>
-                        <li class="f-links"><a href="#">Call For Papers</a></li>
-                        <li class="f-links"><a href="#">Sponsorship</a></li>
-                        <li class="f-links"><a href="#">Awards</a></li>
+                        <li class="f-links"><a href="index.php">Home</a></li>
+                        <li class="f-links"><a href="organizing-committee.php">Organizing Committee</a></li>
+                        <li class="f-links"><a href="call-for-papers.php">Call For Papers</a></li>
+                        <li class="f-links"><a href="sponsorship.php">Sponsorship</a></li>
+                        <li class="f-links"><a href="awards.php">Awards</a></li>
                     </ul>
                 </div>
                 <div class="col-md-2">
