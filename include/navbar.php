@@ -26,11 +26,12 @@
                         <a class="dropdown-item <?php if ($page == "sc") echo "active" ?>" href="./session-chairs.php">Session Chairs</a>
                     </div>
                 </li>
-                <li class="nav-item dropdown <?php if ($page == "w1" || $page == "w2" || $page == "tutorial" || $page == "6g" || $page == "aa" || $page == "tt" || $page == "kn" || $page == "gan" || $page == "program" || $page == "yp" || $page == "wie" || $page == "ap") echo "active" ?>">
+                <li class="nav-item dropdown <?php if ($page == "speakers" || $page == "w1" || $page == "w2" || $page == "tutorial" || $page == "6g" || $page == "aa" || $page == "tt" || $page == "kn" || $page == "gan" || $page == "program" || $page == "yp" || $page == "wie" || $page == "ap") echo "active" ?>">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Program
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item <?php if ($page == "speakers") echo "active" ?>" href="speakers.php">Speakers</a>
                         <!-- <a class="dropdown-item <?php if ($page == "tutorial") echo "active" ?>" href="./tutorial.php">Tutorial</a> -->
                         <!-- <a class="dropdown-item <?php if ($page == "ppl") echo "active" ?>" href="./program/Pathak_lectures.php">Prof. Pathak lectures</a> -->
                         <!-- <a class="dropdown-item <?php if ($page == "w1") echo "active" ?>" href="workshop-1.php">Workshop-1</a> -->
@@ -80,9 +81,6 @@
                 </li>
                 <li class="nav-item <?php if ($page == "ptv") echo "active" ?>">
                     <a class="nav-link" href="places.php">Places to Visit</a>
-                </li>
-                <li class="nav-item <?php if ($page == "speakers") echo "active" ?>">
-                    <a class="nav-link" href="speakers.php">Speakers</a>
                 </li>
                 <li class="nav-item <?php if ($page == "sponsorship") echo "active" ?>">
                     <a class="nav-link" href="sponsorship.php"> Sponsorship</a>
