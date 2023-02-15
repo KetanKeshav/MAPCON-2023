@@ -27,7 +27,7 @@
             <div class="container">
                 <div class="heading_container spon_padding">
                     <h2>
-                        <span>Venue</span>
+                        <span>Places to Visit</span>
                     </h2>
                     <div class=" row">
                         <div class="col-lg-6 col-xl-6 col-sm-6 col-md-6 mt-5">
