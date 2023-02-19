@@ -33,7 +33,7 @@
                                 at IEEE</a></li>
                         <li class="f-links"><a href="https://ieeeaps.org/">IEEE APS</a></li>
                         <li class="f-links"><a href="https://mtt.org/">IEEE MTT-S</a></li>
-                        <li class="f-links"><a href="https://aps-mtts.ieeebangalore.org/">AP/MTT Joint Bangalore Chapter</a></li>
+                        <!-- <li class="f-links"><a href="https://aps-mtts.ieeebangalore.org/">AP/MTT Joint Bangalore Chapter</a></li> -->
                         <li class="f-links"><a href="https://iln.ieee.org/public/TrainingCatalog.aspx">IEEE Learning Network</a>
                         </li>
                     </ul>
@@ -41,11 +41,11 @@
                 <div class="col-md-3">
                     <h3 class="f-header">Membership</h3>
                     <ul>
-                        <li class="f-links"><a href="https://www.ieee.org/membership/join/index.php?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=join">Join</a>
+                        <li class="f-links"><a href="https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join">Join</a>
                         </li>
-                        <li class="f-links"><a href="https://www.ieee.org/membership/renew.php?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew">Renew</a>
+                        <li class="f-links"><a href="https://www.ieee.org/membership/renew.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew">Renew</a>
                         </li>
-                        <li class="f-links"><a href="https://www.ieee.org/membership/benefits/index.php">Benefits</a></li>
+                        <li class="f-links"><a href="https://www.ieee.org/membership/benefits/">Benefits</a></li>
                         <li class="f-links"><a href="https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec-membership-list">IEEE
                                 Collabratec</a></li>
                         <li class="f-links"><a href="https://ieeebangalore.org/guide-to-join-ieee/">Guide to Join IEEE</a></li>
