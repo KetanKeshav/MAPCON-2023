@@ -101,6 +101,14 @@
                 <li class="nav-item <?php if ($page == "venue") echo "active" ?>">
                     <a class="nav-link" href="venue.php">Venue</a>
                 </li>
+                <li class="nav-item dropdown <?php if ($page == "phd-student-initiative" ||  $page == "student-paper-award" || $page == "b.tech_m.tech-student-connect" || $page == "student-opportunities" || $page == "job-opportunities" ) echo "active" ?>">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Previous MAPCONs
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item"  href="http://2022.ieeemapcon.org/">MAPCON 2022</a>
+                    </div>
+                </li>
             </ul>
         </div>
     </div>
