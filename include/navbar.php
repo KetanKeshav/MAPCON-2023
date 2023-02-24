@@ -106,7 +106,7 @@
                         Previous MAPCONs
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item"  href="http://2022.ieeemapcon.org/">MAPCON 2022</a>
+                        <a class="dropdown-item"  href="https://2022.ieeemapcon.ieeebangalore.org/">MAPCON 2022</a>
                     </div>
                 </li>
             </ul>
