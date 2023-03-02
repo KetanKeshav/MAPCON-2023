@@ -63,7 +63,7 @@
         </h2>
       </div>
       <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
-      <div style="font-size: 18px;" class="col-md-12">
+      <!-- <div style="font-size: 18px;" class="col-md-12">
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Chief Patrons:</h2>
         <ul>
           <li>Shri. A. S. Kiran Kumar, Ex, Chairman, ISRO, Member Space Commission</li>
@@ -209,7 +209,7 @@
           <li>Anamiya Bhattacharya</li>
         </ul>
 
-      </div>
+      </div> -->
 
       <!-- 
               <div class="heading_container span_body">
@@ -1384,9 +1384,9 @@
         </div>
       -->
   </section>
-  <!-- <div class="col-md-12">
+  <div class="col-md-12">
     <img src="images/uc.png" class="img-fluid" alt="Under Construction" width="100%">
-  </div> -->
+  </div>
 
   <!-- sponsors section -->
 
