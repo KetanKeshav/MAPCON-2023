@@ -1383,10 +1383,11 @@
 
         </div>
       -->
+      <div class="col-md-12">
+        <img src="images/uc.png" class="img-fluid" alt="Under Construction" width="100%">
+      </div>
   </section>
-  <div class="col-md-12">
-    <img src="images/uc.png" class="img-fluid" alt="Under Construction" width="100%">
-  </div>
+ 
 
   <!-- sponsors section -->
 
