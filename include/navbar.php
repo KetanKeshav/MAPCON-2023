@@ -60,9 +60,9 @@
                         <a class="dropdown-item <?php if ($page == "paper-submission") echo "active" ?>" href="paper-submission.php">Paper Submission</a>
                         <a class="dropdown-item <?php if ($page == "important-dates") echo "active" ?>" href="important-dates.php">Important Dates</a>
                         <a class="dropdown-item <?php if ($page == "awards") echo "active" ?>" href="awards.php">Awards</a>
-                        <!-- <a class="dropdown-item" href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="MAPCON-brochure">
+                        <a class="dropdown-item" href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="MAPCON-brochure">
                             Download CFP
-                        </a> -->
+                        </a>
                     </div>
                 </li>
                 <li class="nav-item dropdown <?php if ($page == "phd-student-initiative" ||  $page == "student-paper-award" || $page == "b.tech_m.tech-student-connect" || $page == "student-opportunities" || $page == "job-opportunities" ) echo "active" ?>">
