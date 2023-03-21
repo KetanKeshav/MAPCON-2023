@@ -37,8 +37,8 @@
                                         <h1>IEEE MAPCON 2023 </h1>
                                         <h2><b>Dec 10-14, 2023</b></h2>
                                         <h2><b>The Forum Celebration Centre and Wyndham Hotel, Ahmedabad</b></h2>
-                                        <a href="./downloads/Program Booklet.pdf" target="_blank" download="Program Booklet">
-                                            Program Booklet
+                                        <a href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="CFP">
+                                            Download CFP
                                         </a>
                                         <a href="program.php" target="_blank">
                                             Schedule
