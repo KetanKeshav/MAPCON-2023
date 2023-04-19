@@ -96,7 +96,7 @@
                 <div class="heading_container heading_center">
                     <h2 style="text-align: center;">
                         Welcome <span>Message</span>
-                        <span>Sponsorship</span>
+                        <!-- <span>Sponsorship</span> -->
                     </h2><br>
                     <p style="text-align: left;">
           IEEE Microwaves, Antennas and Propagation Conference, MAPCON-2023 will be held from December 10-14, 2023 at The 
