@@ -19,6 +19,7 @@
 
         <!-- header section strats -->
         <header class="header_section">
+        <!-- <marquee style="color: white; font-size: 20px;">1. Call For Papers MAPCON-2023 is released, kindly download CFP now</marquee> -->
             <div class="container-fluid">
                 <?php include 'include/navbar.php' ?>
             </div>
