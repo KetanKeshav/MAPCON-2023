@@ -98,7 +98,7 @@
                         Welcome <span>Message</span>
                         <!-- <span>Sponsorship</span> -->
                     </h2><br>
-                    <p style="text-align: left;">
+                    <p style="text-align: justify;">
           IEEE Microwaves, Antennas and Propagation Conference, MAPCON-2023 will be held from December 10-14, 2023 at The 
           Forum Celebration & Convention Centre of Wyndham Hotel at Ahmedabad, India. This is the second edition of MAPCON 
           co-sponsored by IEEE MTT-S and IEE AP-S. The conference will be held in physical mode. This Conference provides 
@@ -108,25 +108,25 @@
           design competitions, industry sessions, exhibits, professional meetings, tours and networking events. It will also hold Ph.D. 
           initiative activities, Young Professional, Women-In Engineering, SIGHT and start-up initiative activities. 
         </p>
-        <p style="text-align: left;">
+        <p style="text-align: justify;">
           The first edition of MAPCON was organized in Bangalore, India during Dec 12-15, 2022. 
           It was grand success with 700+ paper and 1000 plus delegates participating from various Government, 
           Private and Academic organizations of various countries. 
         </p>
-        <p style="text-align: left;">
+        <p style="text-align: justify;">
           The key focus of this conference will be on expert talks by internationally renowned professionals, workshops/tutorials 
           by eminent speakers, oral/poster paper presentations by researchers and exhibition by global industries. 
           MAPCON 2023 is a right opportunity to showcase state of the art technologies, measurement facilities and modelling 
           tools available in Antenna/Microwave & RF industries.
         </p>
-        <p style="text-align: left;">
+        <p style="text-align: justify;">
           This is a 5 days long conference where nearly 1000 participants from various countries 
           (USA, Europe, UK, Australia, Japan, Taiwan, South Korea etc.), Indian research organizations (ISRO, BARC, DRDO, IPR etc.), 
           Indian academic institutes, Start-ups, Industries, and Students are expected to attend this conference. This international 
           event offers an outstanding opportunity to exhibit the company's products/services and applications to a vibrant and engaged 
           audience and provides an ideal platform to reach hundreds of key decision-makers. 
         </p>
-        <p style="text-align: left;">
+        <p style="text-align: justify;">
           On behalf of the executive committee of MAPCON 2023, it is my great pleasure to invite you to be a valued sponsor at the event. 
           MAPCON offers multiple levels of sponsorship and exhibitor opportunities to promote your organization to this influential 
           audience. We would like you to sponsor this event as a Diamond/Platinum/Gold/Silver/Bronze sponsor. The details for the 
