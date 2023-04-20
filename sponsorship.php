@@ -140,7 +140,7 @@
           <strong>
           Rajeev Jyoti & Jaleel Akhtar<br>
           General Co-Chairs, MAPCON 2023<br>
-          chair.mapcon2023@ieeemapcon.org
+          sponsorship.mapcon23@ieeemapcon.org
           </strong>
 
         </p>
