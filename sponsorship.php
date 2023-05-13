@@ -230,7 +230,7 @@
               <p>
               <ul>
                 <li>2 Complimentary delegate passes</li>
-                <li>Complimentary exhibit booth</li>
+                <li>Complimentary exhibit stall</li>
                 <li>Display of logo on all printed material, backdrop and website</li>
               </ul>
               </p>
