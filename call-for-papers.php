@@ -33,25 +33,29 @@
                 </h2>
             </div>
             <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
-            <div class="col-md-12">
+            <!--div class="col-md-12">
                 <img src="images/uc.png" class="img-fluid" alt="Under Construction" width="100%">
-            </div>
-            <!-- 
+            </div-->
+             
                 <div class="cfa_heading">
         <h1>Dear <span>Researcher</span>,</h1>
         <p style="text-align: justify;">
           On behalf of IEEE MAPCON 2023 Organizing Committeee, I take this opportunity to invite you to participate in
-          this professionally enriching flagship technical conference namely IEEE MAPCON. IEEE MAPCON is joint
-          initiative of IEEE Antenna and Propagation Society (APS) and IEEE Microwave Theory & Techniques Society
-          (MTT-S). 1st edition of IEEE MAPCON will be organized on December 12-15,2023. MAPCON 2023 will have
-          technical tracks covering all the domains of Microwaves, Antennas and Propagation.
-          The eminent International speakers from US, Europe and premier National research and Industrial Organizations
-          will deliver talks and conduct workshops and tutorials. During this international conference, the prospective
-          researchers will have the opportunity to present their own work in the form of oral presentation, apart from
-          taking the advantage of the talks by a number of international experts. You are requested to upload your
-          paper having length of min 4 pages to maximum six pages, to paper submission portal:
-          <br><br>
-          <a href=" https://edas.info/N29753"> https://edas.info/N29753</a>
+          this professionally enriching flagship technical conference namely IEEE MAPCON. IEEE MTT-S and IEEE AP-S have
+          come together and signed an MoU for combining two flagship conferences of the respective societies in India 
+          (IMaRC and InCAP) to a single conference: Microwave, Antennas, and Propagation Conference (MAPCON). 
+          The second edition of MAPCON will be held from December 10-14, 2023 at The Forum Celebration Centre 
+          and Wyndham Hotel at Ahmedabad, India, a world heritage city. The first edition of MAPCON was organized
+          in Bangalore, India during Dec 12-15, 2022. It was grand success with 700+ paper and 1000 plus delegates
+          participating from various Government, Private and Academic organizations of various countries.
+          MAPCON 2023 will have technical tracks covering all the domains of Microwaves, Antennas, and Propagation.
+          Eminent International speakers from the US, Europe, and premier National Research and Industrial Organizations 
+          will deliver talks and conduct workshops and tutorials. During this international conference, 
+          the prospective researchers will have the opportunity to present their own work in the form of oral presentations,
+          apart from taking advantage of the talks by a number of international experts. 
+          You are requested to upload your paper having a length of min 4 pages to maximum six pages, to paper submission.<br>
+
+          Portal link: <a href=" https://edas.info/N29753"> https://edas.info/N29753</a>
           <br><br>
           I assure you of an international technically enriched and vibrant experience at MAPCON 2023, and I
           am sure your experience at this conference will be a rewarding and memorable one.
@@ -59,12 +63,30 @@
           <br><br><br>
 
           <strong>
-            Puneet Kumar Mishra and Mrinal Kanti Mandal,<br>
-            General Chairs, IEEE MAPCON 2023
-          </strong>
+          Rajeev Jyoti & Jaleel Akhtar,<br></strong>
+          General Co-Chairs, IEEE MAPCON 2023<br>
+          
+          <a href="chair.mapcon2023@ieeemapcon.org">chair.mapcon2023@ieeemapcon.org</a><br><br>
+          <strong><u>Early Submission Advantage</u></strong><br><br>
+          Discount on Registration Fee to Authors who will submit their paper early and will not wait for the Last date of submission.
+           This discount is available on all categories of Authors.
         </p>
+        <table>
+  <tr>
+    <th>Paper Submission Date</th>
+    <th>Discount on Registration Fee (Early Bird & Regular)</th>
+  </tr>
+  <tr>
+    <td>On or Before June 30th</td>
+    <td>On or Before July  31st</td>
+  </tr>
+  <tr>
+    <td>20%</td>
+    <td>10%</td>
+  </tr>
+</table>
       </div>
-             -->
+             
 <!-- 
             
 
@@ -77,7 +99,7 @@
 
     <!-- sponsors section -->
 
-    <?php include 'sponsors.php'; ?>
+    <!--?php include 'sponsors.php'; ?-->
 
     <!-- end sponsprs section -->
 
