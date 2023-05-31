@@ -20,7 +20,7 @@
         </header>
         <!-- end header section -->
         <!-- slider section -->
-        <section class="slider_section ">
+        <!-- <section class="slider_section ">
             <div id="customCarousel1" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active slide-1">
@@ -32,12 +32,12 @@
                                         <h1>IEEE MAPCON 2023 </h1>
                                         <h2><b>Dec 10-14, 2023</b></h2>
                                         <h2><b>The Forum Celebration Centre and Wyndham Hotel, Ahmedabad</b></h2>
-                                        <!-- <a href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="CFP">
+                                         <a href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="CFP">
                                             Download CFP
                                         </a>
                                         <a href="program.php" target="_blank">
                                             Schedule
-                                        </a> -->
+                                        </a> 
                                     </div>
                                 </div>
                             </div>
@@ -52,12 +52,12 @@
                                         <h1>IEEE MAPCON 2023</h1>
                                         <h2><b>Dec 10-14, 2023</b></h2>
                                         <h2><b>The Forum Celebration Centre and Wyndham Hotel, Ahmedabad</b></h2>
-                                        <!-- <a href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="CFP">
+                                         <a href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="CFP">
                                             Download CFP
                                         </a>
                                         <a href="program.php" target="_blank">
                                             Schedule
-                                        </a> -->
+                                        </a> 
                                     </div>
                                 </div>
                             </div>
@@ -72,12 +72,12 @@
                                         <h1>IEEE MAPCON 2023</h1>
                                         <h2><b>Dec 10-14, 2023</b></h2>
                                         <h2><b>The Forum Celebration Centre and Wyndham Hotel, Ahmedabad</b></h2>
-                                        <!-- <a href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="CFP">
+                                         <a href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="CFP">
                                             Download CFP
                                         </a>
                                         <a href="program.php" target="_blank">
                                             Schedule
-                                        </a> -->
+                                        </a> 
                                     </div>
                                 </div>
                             </div>
@@ -85,7 +85,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- end slider section -->
 
     </div>

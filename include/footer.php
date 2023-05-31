@@ -33,7 +33,7 @@
                                 at IEEE</a></li>
                         <li class="f-links"><a href="https://ieeeaps.org/">IEEE APS</a></li>
                         <li class="f-links"><a href="https://mtt.org/">IEEE MTT-S</a></li>
-                        <!-- <li class="f-links"><a href="https://aps-mtts.ieeebangalore.org/">AP/MTT Joint Bangalore Chapter</a></li> -->
+                        <li class="f-links"><a href="https://www.ieeeapmttguj.org">IEEE AP/MTT Gujarat Chapter</a></li>
                         <li class="f-links"><a href="https://iln.ieee.org/public/TrainingCatalog.aspx">IEEE Learning Network</a>
                         </li>
                     </ul>

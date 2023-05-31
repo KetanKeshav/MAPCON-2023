@@ -41,8 +41,8 @@
                                         <a href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="CFP">
                                             Download CFP
                                         </a>
-                                        <a href="program.php" target="_blank">
-                                            Schedule
+                                        <a href="https://edas.info/newPaper.php?c=31083" target="_blank">
+                                            Submit Paper
                                         </a>
                                     </div>
                                 </div>
@@ -61,8 +61,8 @@
                                         <a href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="CFP">
                                             Download CFP
                                         </a>
-                                        <a href="program.php" target="_blank">
-                                            Schedule
+                                        <a href="https://edas.info/newPaper.php?c=31083" target="_blank">
+                                            Submit Paper
                                         </a>
                                     </div>
                                 </div>
@@ -81,8 +81,8 @@
                                         <a href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="CFP">
                                             Download CFP
                                         </a>
-                                        <a href="program.php" target="_blank">
-                                            Schedule
+                                        <a href="https://edas.info/newPaper.php?c=31083" target="_blank">
+                                            Submit Paper
                                         </a>
                                     </div>
                                 </div>

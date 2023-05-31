@@ -334,6 +334,19 @@ a:focus {
   margin-top: 15px;
 }
 
+.submit-area{
+  margin-top: 10px;
+}
+
+.submit-area a{
+  display: inline-block;
+  padding: 12px 45px;
+  background-color: #EF4D48;
+  color: #ffffff;
+  border-radius: 30px;
+  margin-top: 15px;
+}
+
 @media only screen and (max-width: 768px) {
   .button-con{
     padding: 5px;

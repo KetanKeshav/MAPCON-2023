@@ -86,7 +86,12 @@
   </tr>
 </table>
       </div>
-             
+
+    <div class="submit-area">
+    <center >
+      <a href="https://edas.info/newPaper.php?c=31083" target="_blank">Submit Paper</a>
+    </center>     
+    </div>
 <!-- 
             
 

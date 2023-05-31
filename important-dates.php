@@ -62,7 +62,7 @@
 
     <!-- sponsors section -->
 
-    <?php include 'sponsors.php'; ?>
+    <?php //include 'sponsors.php'; ?>
 
     <!-- end sponsprs section -->
 
