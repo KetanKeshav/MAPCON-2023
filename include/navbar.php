@@ -60,7 +60,7 @@
                         <a class="dropdown-item" href="#" target="_blank" download="MAPCON-brochure">
                             Guidelines to Author
                         </a>
-                        <a class="dropdown-item <?php if ($page == "paper-submission") echo "active" ?>" href="paper-submission.php">Paper Submission</a>
+                        <!-- <a class="dropdown-item <?php // if ($page == "paper-submission") echo "active" ?>" href="paper-submission.php">Paper Submission</a> -->
                         <a class="dropdown-item <?php if ($page == "important-dates") echo "active" ?>" href="important-dates.php">Important Dates</a>
                         <a class="dropdown-item <?php if ($page == "awards") echo "active" ?>" href="awards.php">Awards</a>
                         <a class="dropdown-item" href="./downloads/MAPCON 2023 - CFP.pdf" target="_blank" download="MAPCON-brochure">

@@ -38,6 +38,12 @@
                                 <h4>The Forum Celebration Centre and Wyndham Hotel, Ahmedabad, Gujarat, India</h4>
                                 <img width="100%" src="https://lh3.googleusercontent.com/p/AF1QipMWGBl5106NJE9VcptEmi1Pa2F2KsKtF1mHx7RP=s680-w680-h510" alt="Venue">
                             </div>
+                            <div class="submit-area">
+                            <center >
+                            <a href="https://edas.info/newPaper.php?c=31083" target="_blank">Submit Paper</a>
+                            <!-- <a href="#" target="_blank">MAPCON Registration</a> -->
+                            </center>     
+                            </div>
                         </div>
 
                     </div>
