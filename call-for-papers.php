@@ -67,7 +67,7 @@
           General Co-Chairs, IEEE MAPCON 2023<br>
           
           <a href="chair.mapcon2023@ieeemapcon.org">chair.mapcon2023@ieeemapcon.org</a><br><br>
-          <strong><u>Early Submission Advantage</u></strong><br><br>
+          <!-- <strong><u>Early Submission Advantage</u></strong><br><br>
           Discount on Registration Fee to Authors who will submit their paper early and will not wait for the Last date of submission.
            This discount is available on all categories of Authors.
         </p>
@@ -84,7 +84,7 @@
     <td>20%</td>
     <td>10%</td>
   </tr>
-</table>
+</table> -->
       </div>
 
     <div class="submit-area">
