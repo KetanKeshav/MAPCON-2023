@@ -135,8 +135,7 @@ Portal link: <a href="https://edas.info/N29753">https://edas.info/N29753</a></p>
         <li>Gateway charges as applicable has to be paid extra </li>
         <li>One can present two papers with one registration. However, with Student Registration, only one paper can be
           presented per registration.</li>
-        <li>Students registration includes complimentary shared hostel accommodation.</li>
-        <li>Additional gateway charges of 3.54% on registration (To be confirmed by Ketan).</li>
+        <li>Additional gateway charges of 3.54% on registration</li>
         <li>Government Organization Delegates, where only NEFT Payment is allowed use following Bank details for
           transfer of Registration Fee:</li>
         <li>Workshop(10th Dec 2023) and conference registration (11th – 14th Dec 2023) is separate for all </li>
