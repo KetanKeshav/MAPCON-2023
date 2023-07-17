@@ -63,153 +63,202 @@
         </h2>
       </div>
       <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
-      <!-- <div style="font-size: 18px;" class="col-md-12">
+      <div style="font-size: 18px;" class="col-md-12">
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Chief Patrons:</h2>
         <ul>
-          <li>Shri. A. S. Kiran Kumar, Ex, Chairman, ISRO, Member Space Commission</li>
-          <li>Shri. S. Somanath, Chairman, ISRO</li>
-          <li>Dr. Pawan Kumar Goenka, Chairman, InSPACE </li>
+          <li>A. S. Kiran Kumar, Member, Space Commission</li>
+          <li>S. Somanath, Secretary, DOS & Chairman, ISRO</li>
+          <li>Pawan Kumar Goenka, Chairman, In-SPACe</li>
+          <li>Sameer V. Kamath, Chairman, DRDO</li>
 
 
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Patrons:</h2>
         <ul>
-          <li>Shri. Nilesh M. Desai, Director, SAC</li>
-          <li>MEITY/Gujarat Innovation Council/ DRDO director</li>
-
-
+          <li>Nilesh M. Desai, Director, SAC/ISRO, Ahmedabad</li>
+          <li>G. Viswam, Director, LRDE/DRDO, Bangalore</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">General Co-Chairs:</h2>
         <ul>
-          <li>Shri. Rajeev Jyoti, InSPACe</li>
+          <li>Rajeev Jyoti, IN-SPACe, Ahmedabad</li>
           <li>M. Jaleel Akhtar, IIT, Kanpur</li>
-
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">TPC Co-Chairs:</h2>
         <ul>
-          <li>Milind B. Mahajan, SAC/ISRO </li>
-          <li>Nagendra Prasad Pathak, IIT, Roorkee</li>
+          <li>Milind B. Mahajan, SAC/ISRO, Ahmedabad</li>
+          <li>Nagendra Prasad Pathak, IIT Roorkee</li>
 
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Finance Chair:</h2>
         <ul>
-          <li>Prateek Bansal, SAC/ISRO</li>
-          <li>Jaswant Sharma, SAC/ISRO</li>
-
+          <li>Prateek Bansal, ISRO, Ahmedabad</li>
+          <li>Jaswant Sharma, ISRO, Ahmedabad</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Tutorials and Faculty Development Program:</h2>
         <ul>
           <li>S. B. Chakrabarty, IIT, Gandhinagar</li>
-          <li>Manoj Meshram, IIT, Varanasi</li>
-
+          <li>Manoj Kumar Meshram, IIT-BHU, Varanasi</li>
+          <li>Trushit Upadhyaya , Charusat, Changa</li>
+          <li>Vivek Pandit, PDEU, Gandhinagar</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Special Sessions:</h2>
         <ul>
-          <li>Dhaval Pujara, PDEU, Gandhinagar</li>
-          <li>P. K. Jain, InSPACe </li>
-          <li>Amit Kumar Singh, IIT, Jammu</li>
-
+          <li>Sanjeev Kulshrestha, SAC/ISRO, Ahmedabad</li>
+          <li>Kumar Vaibhav Srivastava, IIT, Kanpur</li>
+          <li>Amit Kumar Singh, IIT Patna</li>
+          <li>Himangshu B Baskey, DRDO-DMSRDE, Kanpur</li>
+          <li>Ramesh Gupta, Ligado Networks, USA</li>
+          <li>Qammer H. Abbasi, University of Glasgow</li>
+          <li>Kranti Kumar Katare, Ericsson Antenna Technology, Germany</li>
+          <li>Pratik Mevada, SAC/ISRO, Ahmedabad</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Workshop:</h2>
         <ul>
-          <li>Sanjeev Kulshrestha, SAC/ISRO</li>
-          <li>Sandeep Chaturvedi, GAETEC </li>
-          <li>Yogesh Verma, DRDO</li>
-
+          <li>Dhaval A. Pujara, PDEU, Gandhinagar</li>
+          <li>K.P. Ray, DIAT, Pune</li>
+          <li>Yogesh Verma, RCI/DRDO, Hyderabad</li>
+          <li>M. M. Sharma , MNIT, Jaipur</li>
+          <li>Raghvendra Kumar Chaudhary, IIT Kanpur</li>
+          <li>Prabhakar Pathak, USA</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Industry Engagement:</h2>
         <ul>
-          <li>Ashish Rajvanshi, Adani Space & Defense </li>
-          <li>Suneel, Azista Pvt Ltd</li>
-          <li>Mayank Gajjar, Pacemaker Solutions</li>
-          <li>Accord Representative </li>
-
+          <li>Rod Waterhouse, Octane Wireless, USA</li>
+          <li>Debabani Choudhury, Intel Labs, USA</li>
+          <li>Jolly Dhar, SAC/ISRO, Ahmedabad</li>
+          <li>Sandeep Chaturvedi, GAETEC, Hyderabad</li>
+          <li>Mayank Gajjar, Pacemaker Solutions, Ahmedabad</li>
+          <li>G. R. Shinde, AMPL, Hyderabad</li>
+          <li>Tapas Chakravarty, TCS Research, Kolkata</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">SIGHT:</h2>
         <ul>
-          <li>Puneet Mishra, URSC/ISRO</li>
-          <li>Chinmoy Saha, IIST</li>
-          <li>Sravan Kumar, SAC/ISRO</li>
-
+          <li>Puneet Kumar Mishra, URSC/ISRO, Bangalore</li>
+          <li>Chinmoy Saha, IIST, Trivandrum</li>
+          <li>Sravan Kumar Sagi, SAC/ISRO, Ahmedabad</li>
+          <li>Ajay Poddar, Synergy Microwave Corp. , USA</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Exhibition and Sponsors:</h2>
         <ul>
-          <li>Devendra Kumar Sharma, SAC/ISRO</li>
-          <li>Nihkil, InSPACE</li>
-
+        <li>Nikhil Arora, IN-SPACe, Ahmedabad</li>
+          <li>Ashutosh Kedar, LRDE/DRDO, Bangalore</li>
+          <li>Santanu Sinha, SAC/ISRO, Ahmedabad</li>
+          <li>Devendra Kumar Sharma, SAC/ISRO, Ahmedabad</li>
+          <li>C. J. Reddy, Altair, USA</li>
+          <li>Sukomal Dey, IIT Palakkad</li>
+          <li>Sandhya Chandravanshi, CML Microcircuits Ltd., UK</li>
+          <li>Prashant Vashishtha, DRDL, Jodhpur</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Startup Initiative and Government Outreach:</h2>
         <ul>
-          <li>Tushar Sharma</li>
-          <li>Vinod Kumar, InSPACE</li>
-          <li>Yogesh Karandikar, Tantrayut </li>
-
+          <li>Tushar Sharma, Renesas Elecronics, USA</li>
+          <li>Vinod Kumar, IN-SPACe, Ahmedabad</li>
+          <li>Yogesh Karandikar, Tantrayut , Mumbai</li>
+          <li>Brijesh Soni, IN-SPACe, Bangalore</li>
+          <li>Sanjay Nekkanti, Dhruva Space, Hyderabad</li>
+          <li>V. Vishwanathan Vedam, Azista, Ahmedabad</li>
+          <li>Vishal Kumar Chakradhary, RF Nanocomposites, SIIIC, IIT Kanpur</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Women In Engineering:</h2>
         <ul>
-          <li>Dr. Jolly Dhar, SAC/ISRO</li>
-          <li>Dr. Mridula Gupta, University of Delhi South Campus </li>
-          <li>Sruti Sinha, SAC/ISRO</li>
-
+          <li>Shilpi Soni, SAC/ISRO, Ahmedbad</li>
+          <li>Mridula Gupta, University of Delhi South Campus</li>
+          <li>Shobha Sundar Ram, IIIT, Delhi</li>
+          <li>Harshita Tolani, SAC/ISRO, Ahmedabad</li>
+          <li>Kriti Khatri, IN-SPACe, Ahmedabad</li>
+          <li>Beenamole K.S., LRDE/DRDO, Bangalore</li>
+          <li>Anwesha Khasnobish, TCS Research, Kolkata</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Young Professionals:</h2>
         <ul>
-          <li>Somak Bhattacharya, IIT, Varanasi</li>
+          <li>Somak Bhattacharyya, IIT-BHU, Varanasi</li>
+          <li>Shruti Sinha, SAC/ISRO, Ahmedabad</li>
           <li>Malika Somanath, IISc, Bangalore</li>
-
+          <li>Anamiya Bhattacharya, SAC/ISRO, Ahmedabad</li>
+          <li>Zubair Akhter, KAUST</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Ph.D. Initiative:</h2>
         <ul>
-          <li>C.V.N. Rao SAC/ISRO</li>
-          <li>Ganga Prasad Pandey, PDEU, Gandhinagar</li>
+          <li>C.V.N. Rao, SAC/ISRO, Ahmedabad</li>
+          <li>A.R. Harish, IIT, Kanpur</li>
+          <li>Karun Rawat, IIT, Roorkee</li>
           <li>Ashwini Sawant, IIT, Guwahati</li>
-
+          <li>Ganga Prasad Pandey, PDEU, Gandhinagar</li>
+          <li>Tushar Goel, NIT, Uttarakhand</li>
+          <li>Surya Prakash Singh, IIIT, Bhubaneswar</li>
+          <li>Anirban Sarkar, IIT, Mandi</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Student Paper Contest:</h2>
         <ul>
-          <li>Vijay Kumar Singh, SAC/ISRO</li>
+          <li>Amalendu Patnaik, IIT, Roorkee</li>
+          <li>S.C. Bera, SAC/ISRO, Ahmedabad</li>
+          <li>Vijay Kumar Singh, SAC, Ahmedabad</li>
+          <li>Senthil Kumar, URSC, Bangalore</li>
+          <li>Deepak Ghodgaonkar , DAIICT, Gandhinagar</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Mentor-Mentee Initiative:</h2>
         <ul>
           <li>Y. P. Kosta, Charusat University,Changa</li>
-          <li>Ved Vyas Dwivedi, Indus University, Ahmedabad</li>
-
+          <li>Ratnajit Bhattacharjee, IIT, Guwahati</li>
+          <li>Chandrakanta Kumar, URSC/ISRO, Bangalore</li>
+          <li>Pratik Mevada, SAC/ISRO, Ahmedabad</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Website & IT:</h2>
         <ul>
-          <li>Rakesh Kumar </li>
+          <li>Nikhil S. Arora, IN-SPACe, Ahmedabad</li>
+          <li>Rakesh Kumar , SAC/ISRO, Ahmedabad</li>
+          <li>B Gowrish, IIT, Roorkee</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Publicity & Media :</h2>
         <ul>
-          <li>Yogesh Verma, DRDO</li>
           <li>Hina Yadav, Delhi University</li>
-          <li>Chandreyee Sarkar, BIT, Mesra</li>
-
-
+          <li>Jagdish M. Rathod, BVM, Vallabh Vidyanagar</li>
+          <li>Manpuram Mahto, NIT, Patna</li>
+        </ul>
+        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Publications :</h2>
+        <ul>
+          <li>Vijay Shanker Tripathi, MNNIT Allahabad, Prayagraj</li>
+          <li>Mrinal Kanti Mandal, IIT, Kharagpur</li>
+          <li>Jawad Y Siddiqui, University of Calcutta, Kolkata</li>
+          <li>Debdeep Sarkar, IISc, Bangalore</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Advisory Committee :</h2>
         <ul>
-          <li>A.N. Bhattacharya, SAC/ISRO</li>
-          <li>Surinder Singh, Ex Director, SCL, Chandigarh</li>
-          <li>D.K.Singh SAC/ISRO</li>
-          <li>Sumitesh Sarkar , SAC/ISRO</li>
-          <li>Sungtek K.</li>
-          <li>Subba Rao, Anant Technology</li>
-          <li>M.V. Reddy, Astra Microwave Products</li>
-          <li>Vinod Chetapatty, Centum</li>
-
-
+          <li>Rajarajan A ,SHAR/ISRO, Sriharikota</li>
+          <li>K. S. Dasgupta, DAIICT, Gandhinagar</li>
+          <li>Apurba N. Bhattacharya, SAC/ISRO, Ahmedabad</li>
+          <li>Surendra Pal, DRDO, Bangalore</li>
+          <li>Pradeep K Jain, Director, NIT Patna</li>
+          <li>M V Kartikeyan, Director, IIITDM Kancheepuram</li>
+          <li>Hanumantha Rao, SAMEER, Chennai</li>
+          <li>Anurag Kumar, ECIL, Hyderabad</li>
+          <li>Nelson Fonsenca ESA</li>
+          <li>Dr. B. K. Das, LRDE/DRDO, Hyderabad</li>
+          <li>D. K. Singh, SAC/ISRO, Ahmedabad</li>
+          <li>Sumitesh Sarkar , SAC/ISRO, Ahmedabad</li>
+          <li>Sungtek Kahng, Univ. of Incheon, South Korea</li>
+          <li>Subba Rao, Ananth Technology, Hyderabad</li>
+          <li>M.V. Reddy, Astra Microwave Products, Hyderabad</li>
+          <li>Vinod Chippalkatti, Centum , Bangalore</li>
+          <li>Shashank Chaturvedi, IPR, Gandhinagar</li>
+          <li>Nadagouda R., URSC/ISRO, Bangalore</li>
+          <li>Ved Vyas Dwivedi, Indus Univ, Ahmedabad</li>
         </ul>
         <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Local Organizing Committee :</h2>
         <ul>
+          <li>Jayesh Thakkar, SAC/ISRO, Ahmedabad</li>
+          <li>Kanhaiya Sharma, SIT, Pune</li>
           <li>Vineet , IIT-Roorkee</li>
-          <li>Shashank Saxena</li>
-          <li>Dharmendra Singh</li>
-          <li>Vrishank Shah, Indus Univ.</li>
-          <li>Anamiya Bhattacharya</li>
+          <li>Yogesh Tyagi, SAC/ISRO, Ahmedabad</li>
+          <li>Vrishank Shah, Indus Univ., Ahmedabad</li>
+          <li>Amit Nihalchandani, SAC/ISRO, Ahmedabad</li>
+          <li>Pankaj Bhavsar, SAC/ISRO, Ahmedabad</li>
+          <li>Ravi Hegde, IIT, Gandhinagar</li>
+          <li>Shilpi Gupta, SVNIT, Surat</li>
+          <li>S.K. Pathak, IPR, Gandhinagar</li>
+          <li>S. Krishna Prasad, SAC/ISRO, Ahmedabad</li>
         </ul>
-
-      </div> -->
+      </div> 
 
       <!-- 
               <div class="heading_container span_body">
@@ -1383,9 +1432,9 @@
 
         </div>
       -->
-      <div class="col-md-12">
+      <!-- <div class="col-md-12">
         <img src="images/uc.png" class="img-fluid" alt="Under Construction" width="100%">
-      </div>
+      </div> -->
   </section>
  
 
