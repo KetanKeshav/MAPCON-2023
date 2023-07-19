@@ -55,7 +55,7 @@
           apart from taking advantage of the talks by a number of international experts. 
           You are requested to upload your paper having a length of min 4 pages to maximum six pages, to paper submission.<br>
 
-          Portal link: <a href=" https://edas.info/N29753"> https://edas.info/N29753</a>
+          Portal link: <a href=" https://edas.info/newPaper.php?c=31083"> https://edas.info/newPaper.php?c=31083</a>
           <br><br>
           I assure you of an international technically enriched and vibrant experience at MAPCON 2023, and I
           am sure your experience at this conference will be a rewarding and memorable one.

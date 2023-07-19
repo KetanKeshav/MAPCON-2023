@@ -57,9 +57,7 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <!-- <a class="dropdown-item <?php if ($page == "ra") echo "active" ?>" href="./registered-authors.php">Registered Authors</a> -->
                         <a class="dropdown-item <?php if ($page == "cfa") echo "active" ?>" href="call-for-papers.php">Call For Papers</a>
-                        <a class="dropdown-item" href="#" target="_blank" download="MAPCON-brochure">
-                            Guidelines to Author
-                        </a>
+                        <a class="dropdown-item <?php if ($page == "gta") echo "active" ?>" href="guidelines.php">Guidelines to Author</a>
                         <!-- <a class="dropdown-item <?php // if ($page == "paper-submission") echo "active" ?>" href="paper-submission.php">Paper Submission</a> -->
                         <a class="dropdown-item <?php if ($page == "important-dates") echo "active" ?>" href="important-dates.php">Important Dates</a>
                         <a class="dropdown-item <?php if ($page == "awards") echo "active" ?>" href="awards.php">Awards</a>
