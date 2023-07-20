@@ -1269,7 +1269,7 @@
 
         </div>
 
-        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Advisory Committee :</h2>
+        <!-- <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Advisory Committee :</h2>
         <ul>
           <li>Rajarajan A ,SHAR/ISRO, Sriharikota</li>
           <li>K. S. Dasgupta, DAIICT, Gandhinagar</li>
@@ -1290,8 +1290,202 @@
           <li>Shashank Chaturvedi, IPR, Gandhinagar</li>
           <li>Nadagouda R., URSC/ISRO, Bangalore</li>
           <li>Ved Vyas Dwivedi, Indus Univ, Ahmedabad</li>
-        </ul>
-        <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Local Organizing Committee :</h2>
+        </ul> -->
+        <h2><span class="span_head">Advisory Committee :</span></h2>
+
+        <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-1.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Rajarajan A</h4>
+              <p class="card-text">SHAR/ISRO, Sriharikota</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-2.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">K. S. Dasgupta</h4>
+              <p class="card-text">DAIICT, Gandhinagar</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-3.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Apurba N. Bhattacharya</h4>
+              <p class="card-text">SAC/ISRO, Ahmedabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/temp.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Surendra Pal</h4>
+              <p class="card-text">DRDO, Bangalore</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-5.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Pradeep K Jain</h4>
+              <p class="card-text">Director, NIT Patna</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-6.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">M V Kartikeyan</h4>
+              <p class="card-text">Director, IIITDM Kancheepuram</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-7.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Hanumantha Rao</h4>
+              <p class="card-text">SAMEER, Chennai</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-8.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Anurag Kumar</h4>
+              <p class="card-text">ECIL, Hyderabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-9.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Nelson Fonsenca</h4>
+              <p class="card-text">ESA</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-10.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. B. K. Das</h4>
+              <p class="card-text">LRDE/DRDO, Hyderabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-11.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">D. K. Singh</h4>
+              <p class="card-text">SAC/ISRO, Ahmedabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-12.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Sumitesh Sarkar</h4>
+              <p class="card-text">SAC/ISRO, Ahmedabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-13.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Sungtek Kahng</h4>
+              <p class="card-text">Univ. of Incheon, South Korea</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-14.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Subba Rao</h4>
+              <p class="card-text">Ananth Technology, Hyderabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-15.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">M.V. Reddy</h4>
+              <p class="card-text">Astra Microwave Products, Hyderabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-16.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Vinod Chippalkatti</h4>
+              <p class="card-text">Centum, Bangalore</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-17.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Shashank Chaturvedi</h4>
+              <p class="card-text">IPR, Gandhinagar</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/temp.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Nadagouda R.</h4>
+              <p class="card-text">URSC/ISRO, Bangalore</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/a-19.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Ved Vyas Dwivedi</h4>
+              <p class="card-text">Indus Univ, Ahmedabad</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- <h2 style="color: #EF4D48; font-weight: bold; font-size:2rem;">Local Organizing Committee :</h2>
         <ul>
           <li>Jayesh Thakkar, SAC/ISRO, Ahmedabad</li>
           <li>Kanhaiya Sharma, SIT, Pune</li>
@@ -1304,7 +1498,121 @@
           <li>Shilpi Gupta, SVNIT, Surat</li>
           <li>S.K. Pathak, IPR, Gandhinagar</li>
           <li>S. Krishna Prasad, SAC/ISRO, Ahmedabad</li>
-        </ul>
+        </ul> -->
+        <h2><span class="span_head">Local Organizing Committee :</span></h2>
+
+        <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/l-1.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Jayesh Thakkar</h4>
+              <p class="card-text">SAC/ISRO, Ahmedabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/l-2.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Kanhaiya Sharma</h4>
+              <p class="card-text">SIT, Pune</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/temp.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Vineet</h4>
+              <p class="card-text">IIT-Roorkee</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/l-4.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Yogesh Tyagi</h4>
+              <p class="card-text">SAC/ISRO, Ahmedabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/l-5.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Vrishank Shah</h4>
+              <p class="card-text">Indus Univ., Ahmedabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/l-6.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Amit Nihalchandani</h4>
+              <p class="card-text">SAC/ISRO, Ahmedabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/l-7.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Pankaj Bhavsar</h4>
+              <p class="card-text">SAC/ISRO, Ahmedabad</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/l-8.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Ravi Hegde</h4>
+              <p class="card-text">IIT, Gandhinagar</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/l-9.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Shilpi Gupta</h4>
+              <p class="card-text">SVNIT, Surat</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/l-10.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">S.K. Pathak</h4>
+              <p class="card-text">IPR, Gandhinagar</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/l-11.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">S. Krishna Prasad</h4>
+              <p class="card-text">SAC/ISRO, Ahmedabad</p>
+            </div>
+          </div>
+        </div>
+
 
 
       </div>
