@@ -208,7 +208,7 @@
         <div class="spon_body">
           <h2>PAPER <span>UPLOAD</span></h2>
           <p>
-            All papers must be submitted in PDF via EDAS: <a href="https://edas.info/N29753">https://edas.info/N29753</a>
+            All papers must be submitted in PDF via EDAS: <a href="https://edas.info/newPaper.php?c=31083">https://edas.info/newPaper.php?c=31083</a>
 
             <br><br>
 

@@ -126,7 +126,7 @@
         </table>
       </div>
       <p>You are requested to upload your paper having a length of min 4 pages to maximum six pages, to paper submission.
-Portal link: <a href="https://edas.info/N29753">https://edas.info/N29753</a></p>
+Portal link: <a href="https://edas.info/newPaper.php?c=31083">https://edas.info/newPaper.php?c=31083</a></p>
       <p>
         <strong>NOTE:</strong>
       <ol style="color: red; font-style: italic; font-weight: 400;">

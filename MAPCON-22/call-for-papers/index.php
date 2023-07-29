@@ -170,7 +170,7 @@
           taking the advantage of the talks by a number of international experts. You are requested to upload your
           paper having length of min 4 pages to maximum six pages, to paper submission portal:
           <br><br>
-          <a href=" https://edas.info/N29753"> https://edas.info/N29753</a>
+          <a href=" https://edas.info/newPaper.php?c=31083"> https://edas.info/newPaper.php?c=31083</a>
           <br><br>
           I assure you of an international technically enriched and vibrant experience at MAPCON 2022, and I
           am sure your experience at this conference will be a rewarding and memorable one.
