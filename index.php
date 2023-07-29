@@ -44,6 +44,9 @@
                                         <a href="https://edas.info/newPaper.php?c=31083" target="_blank">
                                             Submit Paper
                                         </a>
+                                        <a href="register.php" target="_blank">
+                                            Register Now
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -64,6 +67,9 @@
                                         <a href="https://edas.info/newPaper.php?c=31083" target="_blank">
                                             Submit Paper
                                         </a>
+                                        <a href="register.php" target="_blank">
+                                            Register Now
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -83,6 +89,9 @@
                                         </a>
                                         <a href="https://edas.info/newPaper.php?c=31083" target="_blank">
                                             Submit Paper
+                                        </a>
+                                        <a href="register.php" target="_blank">
+                                            Register Now
                                         </a>
                                     </div>
                                 </div>
