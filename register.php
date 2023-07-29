@@ -142,14 +142,16 @@ Portal link: <a href="https://edas.info/newPaper.php?c=31083">https://edas.info/
       </ol>
       </p>
     </div>
-    <!-- <center>
-      <div class="detail_box">
-        <a href="https://ieeemapcon.org/index.php" class="button-con"
+    <center>
+      <!-- <div class="detail_box">
+        <a href="https://in.explara.com/e/ieee-mapcon-2023" class="button-con"
           style="width:500px; height:70px; text-align:center;">
-          <h1> Registeration Closed </h1>
+          <h1> Register now </h1>
         </a>
-      </div>
-    </center><br><br> -->
+      </div> -->
+    </center><br><br>
+
+    <iframe width="800" height="500" src="https://in.explara.com/e/ieee-mapcon-2023/checkout" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </section>
 
 
