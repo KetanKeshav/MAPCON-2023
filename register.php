@@ -150,9 +150,10 @@ Portal link: <a href="https://edas.info/newPaper.php?c=31083">https://edas.info/
         </a>
       </div> -->
     </center><br><br>
-
-    <iframe width="800" height="500" src="https://in.explara.com/e/ieee-mapcon-2023/checkout" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </section>
+    <center>
+    <iframe width="900" height="650" src="https://in.explara.com/e/ieee-mapcon-2023/checkout" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </center>
+    </section>
 
 
   <!-- sponsors section -->
