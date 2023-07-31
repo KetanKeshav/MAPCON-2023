@@ -20,7 +20,8 @@
                             <a href="https://twitter.com/ieeemapcon?lang=en" target="_blank">
                                 <i class="fa fa-twitter" aria-hidden="true"></i>
                             </a>
-                            <a href="https://www.linkedin.com/in/ieee-mapcon-4a9845233/recent-activity/" target="_blank">
+                            <a href="https://www.linkedin.com/in/ieee-mapcon-4a9845233/recent-activity/"
+                                target="_blank">
                                 <i class="fa fa-linkedin" aria-hidden="true"></i>
                             </a>
                         </div>
@@ -29,26 +30,32 @@
                 <div class="col-md-3">
                     <h3 class="f-header">Connect With IEEE</h3>
                     <ul>
-                        <li class="f-links"><a href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee">Careers
+                        <li class="f-links"><a
+                                href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee">Careers
                                 at IEEE</a></li>
                         <li class="f-links"><a href="https://ieeeaps.org/">IEEE APS</a></li>
                         <li class="f-links"><a href="https://mtt.org/">IEEE MTT-S</a></li>
                         <li class="f-links"><a href="https://www.ieeeapmttguj.org">IEEE AP/MTT Gujarat Chapter</a></li>
-                        <li class="f-links"><a href="https://iln.ieee.org/public/TrainingCatalog.aspx">IEEE Learning Network</a>
+                        <li class="f-links"><a href="https://iln.ieee.org/public/TrainingCatalog.aspx">IEEE Learning
+                                Network</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col-md-3">
                     <h3 class="f-header">Membership</h3>
                     <ul>
-                        <li class="f-links"><a href="https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join">Join</a>
+                        <li class="f-links"><a
+                                href="https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join">Join</a>
                         </li>
-                        <li class="f-links"><a href="https://www.ieee.org/membership/renew.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew">Renew</a>
+                        <li class="f-links"><a
+                                href="https://www.ieee.org/membership/renew.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew">Renew</a>
                         </li>
                         <li class="f-links"><a href="https://www.ieee.org/membership/benefits/">Benefits</a></li>
-                        <li class="f-links"><a href="https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec-membership-list">IEEE
+                        <li class="f-links"><a
+                                href="https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec-membership-list">IEEE
                                 Collabratec</a></li>
-                        <li class="f-links"><a href="https://ieeebangalore.org/guide-to-join-ieee/">Guide to Join IEEE</a></li>
+                        <li class="f-links"><a href="https://ieeebangalore.org/guide-to-join-ieee/">Guide to Join
+                                IEEE</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3">
@@ -96,5 +103,13 @@
 <!-- custom js -->
 <script src="js/custom.js"></script>
 <!-- Google Map -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
+<script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
 <!-- End Google Map -->
+
+<script>
+    $(document).ready(function () {
+        // Show the modal on page load
+        $('#flashyMessageModal').modal('show');
+    });
+</script>
