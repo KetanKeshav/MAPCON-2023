@@ -19,32 +19,27 @@
             text-align: center;
         }
 
-        /* Customize the modal title font size */
         .modal-title {
             font-size: 2rem;
             margin-bottom: 0;
         }
 
-        /* Add a border around the modal body */
         .modal-body {
             border: none;
             padding: 20px;
             text-align: center;
         }
 
-        /* Customize the modal body font size */
         .modal-body p {
             font-size: 1.5rem;
             margin-bottom: 0;
         }
 
-        /* Customize the "Close" button background color and text color */
         .modal-footer .btn-primary {
             background-color: #EF4D48;
             color: white;
         }
 
-        /* Add a little animation to the modal */
         .modal-content {
             animation: pulse 1s infinite;
         }
@@ -60,6 +55,30 @@
 
             100% {
                 transform: scale(1);
+            }
+        }
+
+        .sticky-scrolling-text {
+            background-color: #EF4D48;
+            color: white;
+            font-size: 20px;
+            padding: 10px;
+            position: sticky;
+            top: 0;
+            z-index: 9999;
+            text-align: center;
+            animation: flash 1s infinite;
+        }
+
+        @keyframes flash {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.6;
             }
         }
     </style>
@@ -91,7 +110,13 @@
 
         <!-- header section strats -->
         <header class="header_section">
-            <marquee style="color: white; font-size: 20px;">Paper submission deadline has been extended till 15th August 2023!!</marquee>
+            <div class="sticky-scrolling-text">
+                <marquee>
+                    Paper submission deadline has been extended till 15th August 2023!!
+                </marquee>
+            </div>
+            <!-- <marquee style="color: white; font-size: 20px;">Paper submission deadline has been extended till 15th August
+                2023!!</marquee> -->
             <div class="container-fluid">
                 <?php include 'include/navbar.php' ?>
             </div>
