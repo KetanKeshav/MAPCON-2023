@@ -353,46 +353,109 @@
 
         <h2><span class="span_head">MAPCON Executive Committee:</span></h2>
         <div class="row">
+
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/oc/fc-1.png" alt="Card image">
+              <img class="card-img-top" src="./images/oc/yahiya.webp" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Yahia Antar (Co-chair)</h4>
-              <!-- <p class="card-text">ISRO, Ahmedabad</p> -->
+              <h4 class="card-title">Yahia Antar</h4>
+              <p class="card-text">Co-Chair</p>
             </div>
           </div>
+
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/oc/fc-2.png" alt="Card image">
+              <img class="card-img-top" src="./images/oc/goutam.webp" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Goutam Chattopadhyay (Co-chair)</h4>
-              <!-- <p class="card-text">ISRO, Ahmedabad</p> -->
+              <h4 class="card-title">Goutam Chattopadhyay</h4>
+              <p class="card-text">Co-Chair</p>
             </div>
           </div>
+
           <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/oc/gc-1.png" alt="Card image">
+              <img class="card-img-top" src="./images/oc/rajeev.webp" alt="Card image">
             </center>
             <div class="card-body">
               <h4 class="card-title">Rajeev Jyoti</h4>
-              <p class="card-text">IN-SPACe, Ahmedabad</p>
+              <p class="card-text">Distinguished Scientist, Associate Director SAC, ISRO </p>
             </div>
           </div>
-        
-        </div>
-        <div class="row">
-        <div class="card col-lg-4 col-md-4 col-sm-6">
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
             <center>
-              <img class="card-img-top" src="./images/oc/s-1.png" alt="Card image">
+              <img class="card-img-top" src="./images/oc/shiban.webp" alt="Card image">
             </center>
             <div class="card-body">
-              <h4 class="card-title">Puneet Kumar Mishra</h4>
-              <p class="card-text">URSC/ISRO, Bangalore</p>
+              <h4 class="card-title">Shibon Kaul</h4>
+              <!-- <p class="card-text">Distinguished Scientist, Associate Director SAC, ISRO </p> -->
             </div>
           </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/DGuha.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Debatosh Guha</h4>
+              <!-- <p class="card-text">Distinguished Scientist, Associate Director SAC, ISRO </p> -->
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/k-j-vinoy.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">K J Vinoy</h4>
+              <!-- <p class="card-text">Distinguished Scientist, Associate Director SAC, ISRO </p> -->
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/Puneet-K.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Puneet K Mishra</h4>
+              <!-- <p class="card-text">Distinguished Scientist, Associate Director SAC, ISRO </p> -->
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/jaleel.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Jaleel Akhtar</h4>
+              <!-- <p class="card-text">Distinguished Scientist, Associate Director SAC, ISRO </p> -->
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/chinmoy.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Dr. Chinmoy Saha</h4>
+              <p class="card-text">IIST, Trivandrum</p>
+            </div>
+          </div>
+
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/sherry.webp" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Sherry Hess</h4>
+              <!-- <p class="card-text">IIST, Trivandrum</p> -->
+            </div>
+          </div>
+
         </div>
+
 
 
         <h2><span class="span_head">Tutorials and Faculty Development Program:</span></h2>
