@@ -351,6 +351,50 @@
           </div>
         </div>
 
+        <h2><span class="span_head">MAPCON Executive Committee:</span></h2>
+        <div class="row">
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/fc-1.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Yahia Antar (Co-chair)</h4>
+              <!-- <p class="card-text">ISRO, Ahmedabad</p> -->
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/fc-2.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Goutam Chattopadhyay (Co-chair)</h4>
+              <!-- <p class="card-text">ISRO, Ahmedabad</p> -->
+            </div>
+          </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/gc-1.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Rajeev Jyoti</h4>
+              <p class="card-text">IN-SPACe, Ahmedabad</p>
+            </div>
+          </div>
+        
+        </div>
+        <div class="row">
+        <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/s-1.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Puneet Kumar Mishra</h4>
+              <p class="card-text">URSC/ISRO, Bangalore</p>
+            </div>
+          </div>
+        </div>
+
+
         <h2><span class="span_head">Tutorials and Faculty Development Program:</span></h2>
         
         <div class="row">
