@@ -97,7 +97,7 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <p class="lead">Paper submission deadline has been extended till 15th August 2023!!</p>
+                    <p class="lead">DUE TO MULTIPLE REQUESTS, DEADLINE FOR PAPER SUBMISSION FURTHER EXTENDED UPTO 23-08-2023.</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
@@ -112,7 +112,7 @@
         <header class="header_section">
             <div class="sticky-scrolling-text">
                 <marquee>
-                    Paper submission deadline has been extended till 15th August 2023!!
+                PAPER SUBMISSION DEADLINE EXTENDED UPTO 23-08-2023. THIS DEADLINE IS FIRM AND FINAL AS ALL PAPERS MUST GO THROUGH RIGOROUS REVIEW PROCESS BEFORE FINAL ACCEPTANCE
                 </marquee>
             </div>
             <!-- <marquee style="color: white; font-size: 20px;">Paper submission deadline has been extended till 15th August
