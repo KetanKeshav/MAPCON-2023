@@ -1497,7 +1497,7 @@
             </center>
             <div class="card-body">
               <h4 class="card-title">Dr. B. K. Das</h4>
-              <p class="card-text">LRDE/DRDO, Hyderabad</p>
+              <p class="card-text">Director General (ECS). DRDO, Hyderabad</p>
             </div>
           </div>
 
