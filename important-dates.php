@@ -45,7 +45,7 @@
                             </tr>
                             <tr>
                                 <td>Paper Submission Ends</td>
-                                <td><strike>July 31, 2023</strike> August 15, 2023</td>
+                                <td><strike>August 15, 2023</strike> August 23, 2023</td>
                             </tr>
                             <tr>
                                 <td>Notification of Acceptance </td>
