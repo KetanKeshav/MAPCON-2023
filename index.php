@@ -87,7 +87,7 @@
 <body>
 
     <!-- Flashy message modal -->
-    <div id="flashyMessageModal" class="modal fade" tabindex="-1" role="dialog">
+    <!-- <div id="flashyMessageModal" class="modal fade" tabindex="-1" role="dialog">
         <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -104,7 +104,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <div class="hero_area">
 
@@ -112,7 +112,7 @@
         <header class="header_section">
             <div class="sticky-scrolling-text">
                 <marquee>
-                PAPER SUBMISSION DEADLINE EXTENDED UPTO 23-08-2023. THIS DEADLINE IS FIRM AND FINAL AS ALL PAPERS MUST GO THROUGH RIGOROUS REVIEW PROCESS BEFORE FINAL ACCEPTANCE
+                The submitted papers are currently under review. Acceptance will be communicated by 15th September 2023
                 </marquee>
             </div>
             <!-- <marquee style="color: white; font-size: 20px;">Paper submission deadline has been extended till 15th August
