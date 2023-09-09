@@ -87,7 +87,7 @@
 <body>
 
     <!-- Flashy message modal -->
-    <!-- <div id="flashyMessageModal" class="modal fade" tabindex="-1" role="dialog">
+    <div id="flashyMessageModal" class="modal fade" tabindex="-1" role="dialog">
         <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -97,14 +97,14 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <p class="lead">DUE TO MULTIPLE REQUESTS, DEADLINE FOR PAPER SUBMISSION FURTHER EXTENDED UPTO 23-08-2023.</p>
+                    <p class="lead">PhD Student Initiative program details are updated. Click <a href="phd-student-initiative.php">HERE</a> too see more.</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
 
     <div class="hero_area">
 

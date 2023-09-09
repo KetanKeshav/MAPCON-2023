@@ -83,12 +83,16 @@
     <br><b>Important Dates:</b> 
     <br>•	Deadline for application submissions: 15th  October 2023 
     <br>•	Declaration of selected candidates: 30th  October 2023
-
         </p>
         <br>
         <b>Contact Information:</b>
         For any queries about this program, a mail may be sent to: phdinitiative2023@gmail.com<br>
-        Link to submit the application: https://docs.google.com/forms/d/e/1FAIpQLSchL8AuwMpBusebvjZTE-7eztBl3PRmasxPpxeidDD2l_uhQA/viewform
+        Link to submit the application: 
+        <div class="submit-area">
+    <center >
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSchL8AuwMpBusebvjZTE-7eztBl3PRmasxPpxeidDD2l_uhQA/viewform" target="_blank">Click here to submit your application</a>
+    </center>     
+    </div>
 
       </div>
       <!-- <center>
