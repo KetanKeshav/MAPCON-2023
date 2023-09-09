@@ -33,9 +33,6 @@
                 </h2>
             </div>
             <hr style="border-bottom: 3px solid #2575fc; width: 50%;">
-            <div class="col-md-12">
-                <img src="images/uc.png" class="img-fluid" alt="Under Construction" width="100%">
-            </div>
             
                 <div class="cfa_heading">
         <p style="text-align: justify;">
