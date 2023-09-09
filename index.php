@@ -97,7 +97,7 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <p class="lead">PhD Student Initiative program details are updated. <br>Click <a href="phd-student-initiative.php">HERE</a> too see more.</p>
+                    <p class="lead">PhD Student Initiative program details are updated. <br>Click <a href="phd-student-initiative.php">HERE</a> to see more.</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
