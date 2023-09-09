@@ -36,66 +36,65 @@
             <div class="col-md-12">
                 <img src="images/uc.png" class="img-fluid" alt="Under Construction" width="100%">
             </div>
-            <!-- 
+            
                 <div class="cfa_heading">
         <p style="text-align: justify;">
-          The major aim of the PhD Student Initiative Program is to invite mid-stage PhD students from universities
-          across India to participate in this conference. The basic idea behind the scheme is to encourage early level
-          doctoral candidates in the RF and Microwave domain to provide them exposure during the conference, so that
-          they may carry out quality work during their PhD program. The PhD student initiative would thus facilitate
-          these students in transitioning to niche topics. Through this scheme, the plan is to invite several students
-          from various institutions all over the country, who would be offered complimentary registration to attend
-          the full event.
+
+          MAPCON 2023 envisages holding all the exciting student programs including PhD Student Initiative during the conference to maintain the interest of burgeoning RF/Microwave student community in the country. 
           <br><br>
-          The students selected for this program would be offered full registration, which includes following:
+          The major aim of the PhD Student Initiative Program is to invite early-stage PhD students in the RF and microwave domain from universities across India to participate in this conference. This would expose them to innovative ideas during the conference and encourage them to carry out quality work during their PhD program. Participation in this programme would help the PhD students in transitioning to niche topics. 
+          <br><br>
+          Participating students will get:
         <ul>
-          <li>Welcome Dinner </li>
-          <li>Lunch </li>
-          <li>Registration Kit</li>
-          <li>Awards Night Dinner </li>
-          <li>Tea/Coffee Breaks </li>
+        <li>Complimentary registration to attend the full event. (Paid registration is required for presentation of contributed papers.)</li>
+        <li>Reimbursement of travelling costs (3AC by train and bus only, shortest route)</li>
+        <li>Suitable accommodation, which will be arranged by MAPCON-2023.</li>
+
         </ul>
-        The number of candidates called for PhD student initiative would be decided by the MAPCON Organizing Committeee.
+        The number of students to be invited to attend this program would be decided by the organizing committee.
+        <br><br>
+        The number of entries from each institution would usually be limited to two in order to provide equal opportunity to students from each region. The committee may seek nominations from microwave faculty members.
+        <br><br>
+        PhD students must submit their applications online using the link provided below. The students completing the program successfully would get a Certificate. The successful completion of the program would include: 
         <ul>
           <li>
-            All candidates must submit their applications online using the link provided below.
+            Attending the Plenary and Invited Talks 
           </li>
           <li>
-            The students completing the program successfully would be issued a Certificate.
+          Attending either the Industry or the Technical Workshop 
           </li>
           <li>
-            The successful completion of the program would include
+          Visiting all the Exhibition Booths 
             <ul>
               <li>
-                Attending all the Plenary/Invited Talks organized under the umbrella of doctoral school;
-              </li>
-              <li>
-                Attending either the Industry or the Technical Workshop;
-              </li>
-              <li>
-                Visiting all the Exhibition Booths;
-              </li>
-              <li>
-                Attending most of the Technical Sessions;
+              Attending most of the Technical Sessions. 
               </li>
               <li>
                 Submission of a final report in the PDF format at the end of the conference describing
-                <br>(a) One invited talk,
-                <br>(b) One paper presented in the technical session
-                <br>(c) One lecture from workshop, and
-                <br>(d) one product from the exhibition. Maximum length of the report should be of 10 slides.
+                <br> a.	One invited talk, 
+                <br> b.	One paper presented in the technical session, 
+                <br> c.	One lecture from workshop, and 
+                <br> d.	One product from the exhibition. 
+                
               </li>
               <li>
-                Last Date to apply: September 15, 2023
+              Updates, if any, will be posted on this page.
               </li>
             </ul>
           </li>
         </ul>
-        The details about submission of final report by attendees including their presentation would be populated later
-        at this site. Please keep visiting this page for any update.
+    <br><b>Important Dates:</b> 
+    <br>•	Deadline for application submissions: 15th  October 2023 
+    <br>•	Declaration of selected candidates: 30th  October 2023
+
         </p>
+        <br>
+        <b>Contact Information:</b>
+        For any queries about this program, a mail may be sent to: phdinitiative2023@gmail.com<br>
+        Link to submit the application: https://docs.google.com/forms/d/e/1FAIpQLSchL8AuwMpBusebvjZTE-7eztBl3PRmasxPpxeidDD2l_uhQA/viewform
+
       </div>
-      <center>
+      <!-- <center>
         <a href="https://forms.gle/bjbXYFeCp4e48Fne6" style="border: 1px solid #ffffff;
       display: inline-block;
       padding: 10px 65px;
@@ -103,8 +102,8 @@
       color: #ffffff;
       border-radius: 35px;
       margin-top: 15px;">Apply for PhD Initiative</a>
-      </center>
-             -->
+      </center> -->
+            
 
         </div>
     </section>
