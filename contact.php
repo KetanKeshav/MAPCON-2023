@@ -171,6 +171,7 @@
           </h2>
         </div>
         <img src="./images/images/logo-rx.png" height="200px" width="200px" alt="Card image">
+        <br><br>
         <p>
           Rx Events Pvt. Ltd.<br>
           401, Shyamak Complex Opp. Sahjanand College<br>
