@@ -170,7 +170,7 @@
             Event Managed by
           </h2>
         </div>
-        <img class="card-img-top" src="./images/images/logo-rx.png" alt="Card image">
+        <img class="card-img-top" src="./images/images/logo-rx.png" height="200px" width="200px" alt="Card image">
         <p>
           Rx Events Pvt. Ltd.<br>
           401, Shyamak Complex Opp. Sahjanand College<br>
