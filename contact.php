@@ -164,6 +164,22 @@
           For questions / queries please contact : ieeemapcon@gmail.com <br><br>
         </p>
       </div>
+      <div class="container">
+        <div class="heading_container">
+          <h2>
+            Event Managed by
+          </h2>
+        </div>
+        <img class="card-img-top" src="./images/images/priyansha.png" alt="Card image">
+        <p>
+          Rx Events Pvt. Ltd.<br>
+          401, Shyamak Complex Opp. Sahjanand College<br>
+          Ambawadi, Ahmedabad, Gujarat-38<br>
+          Phone : +91 9099331371/50<br>
+          Email: contact@rxevents.co.in<br>
+          www.rxevents.co.in
+        </p>
+      </div>
     </section>
     <!-- end contact section -->
 
