@@ -1718,6 +1718,15 @@
               <p class="card-text">SAC/ISRO, Ahmedabad</p>
             </div>
           </div>
+          <div class="card col-lg-4 col-md-4 col-sm-6">
+            <center>
+              <img class="card-img-top" src="./images/oc/priyansha.png" alt="Card image">
+            </center>
+            <div class="card-body">
+              <h4 class="card-title">Priyansha Kaurav</h4>
+              <p class="card-text">IIT Roorkee</p>
+            </div>
+          </div>
         </div>
 
 
