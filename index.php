@@ -112,7 +112,7 @@
         <header class="header_section">
             <div class="sticky-scrolling-text">
                 <marquee>
-                The submitted papers are currently under review. Acceptance will be communicated by 15th September 2023
+                Emailing of Paper acceptance notification has started. All notifications will be sent out between 15th to 25th September 2023.
                 </marquee>
             </div>
             <!-- <marquee style="color: white; font-size: 20px;">Paper submission deadline has been extended till 15th August
