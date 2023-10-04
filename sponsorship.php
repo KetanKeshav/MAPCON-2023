@@ -216,7 +216,7 @@
               </p>
             </div>
             <div class="spon_body">
-              <h2><span>Silver</span> Sponsor: <u>INR 2.5L</u> (US$2.7K) + GST (18%)</h2>
+              <h2><span>Silver</span> Sponsor: <u>INR 2.5L</u> (US$3.6K) + GST (18%)</h2>
               <p>
               <ul>
                 <li>4 Complimentary delegate passes</li>
@@ -226,7 +226,7 @@
               </p>
             </div>
             <div class="spon_body">
-              <h2><span>Bronze</span> Sponsor: <u>INR 1.5L</u> (US$1.35K) + GST (18%)</h2>
+              <h2><span>Bronze</span> Sponsor: <u>INR 1.5L</u> (US$2.15K) + GST (18%)</h2>
               <p>
               <ul>
                 <li>2 Complimentary delegate passes</li>
